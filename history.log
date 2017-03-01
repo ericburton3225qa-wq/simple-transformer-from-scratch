@@ -2919,3 +2919,4 @@
 2017-03-01 19:45:07 - chore: update dependencies
 2017-03-01 12:34:55 - feat: support user sessions
 2017-03-01 09:57:31 - fix: handle empty input gracefully
+2017-03-01 13:42:30 - fix: update response parser
