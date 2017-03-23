@@ -2954,3 +2954,4 @@
 2017-03-23 18:15:12 - chore: update dependencies
 2017-03-23 10:12:05 - test: extend test coverage
 2017-03-23 19:41:34 - docs: update usage examples
+2017-03-23 10:18:01 - refactor: clean up utils
