@@ -2952,3 +2952,4 @@
 2017-03-21 14:13:11 - feat: improve training pipeline
 2017-03-21 20:26:30 - refactor: clean up utils
 2017-03-23 18:15:12 - chore: update dependencies
+2017-03-23 10:12:05 - test: extend test coverage
