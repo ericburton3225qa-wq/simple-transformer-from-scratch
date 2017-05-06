@@ -3017,3 +3017,4 @@
 2017-05-04 13:55:34 - chore: update dependencies
 2017-05-04 10:44:22 - refactor: optimize message handling
 2017-05-04 17:29:49 - test: add unit tests for nlp module
+2017-05-06 09:25:15 - test: extend test coverage
