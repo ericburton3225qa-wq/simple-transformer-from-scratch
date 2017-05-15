@@ -3029,3 +3029,4 @@
 2017-05-12 19:33:07 - feat: support user sessions
 2017-05-12 19:49:51 - test: extend test coverage
 2017-05-12 17:37:09 - fix: update response parser
+2017-05-14 18:35:32 - fix: typo in README
