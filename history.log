@@ -3098,3 +3098,4 @@
 2017-06-27 12:52:36 - refactor: clean up utils
 2017-06-29 15:35:28 - docs: add installation guide
 2017-06-29 09:55:55 - fix: update response parser
+2017-06-29 09:40:42 - test: add unit tests for nlp module
