@@ -3108,3 +3108,4 @@
 2017-07-05 13:53:50 - refactor: clean up utils
 2017-07-05 14:09:02 - chore: update dependencies
 2017-07-05 09:36:26 - fix: handle empty input gracefully
+2017-07-07 11:39:03 - fix: handle empty input gracefully
