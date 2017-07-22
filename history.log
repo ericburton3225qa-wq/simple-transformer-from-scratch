@@ -3128,3 +3128,4 @@
 2017-07-19 11:45:24 - feat: support user sessions
 2017-07-19 18:48:03 - fix: update response parser
 2017-07-21 15:40:37 - test: add unit tests for nlp module
+2017-07-21 18:08:29 - chore: update requirements.txt
