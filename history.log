@@ -3137,3 +3137,4 @@
 2017-07-25 16:07:49 - fix: handle empty input gracefully
 2017-07-25 11:26:12 - chore: update dependencies
 2017-07-27 12:02:18 - refactor: optimize message handling
+2017-07-27 18:09:15 - docs: add installation guide
