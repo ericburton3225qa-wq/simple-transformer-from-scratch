@@ -3150,3 +3150,4 @@
 2017-08-02 09:56:35 - chore: update dependencies
 2017-08-04 19:20:13 - docs: add installation guide
 2017-08-04 14:47:59 - docs: update usage examples
+2017-08-04 14:58:22 - feat: add logging support
