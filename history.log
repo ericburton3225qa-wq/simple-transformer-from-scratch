@@ -3159,3 +3159,4 @@
 2017-08-10 20:27:14 - refactor: clean up utils
 2017-08-10 10:10:55 - chore: update dependencies
 2017-08-10 09:09:06 - feat: add logging support
+2017-08-12 09:06:49 - fix: update response parser
