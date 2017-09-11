@@ -3201,3 +3201,4 @@
 2017-09-07 10:53:16 - feat: add initial function
 2017-09-07 19:34:39 - feat: support user sessions
 2017-09-09 20:31:13 - feat: add logging support
+2017-09-11 11:21:04 - refactor: optimize message handling
