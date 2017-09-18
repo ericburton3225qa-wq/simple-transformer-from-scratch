@@ -3211,3 +3211,4 @@
 2017-09-15 09:15:02 - feat: support user sessions
 2017-09-15 12:39:41 - docs: update usage examples
 2017-09-15 18:44:56 - chore: update dependencies
+2017-09-17 19:56:31 - fix: handle empty input gracefully
