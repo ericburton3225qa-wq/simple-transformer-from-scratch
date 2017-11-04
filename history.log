@@ -3283,3 +3283,4 @@
 2017-11-02 15:43:05 - docs: update usage examples
 2017-11-02 10:43:22 - chore: update dependencies
 2017-11-04 12:20:09 - fix: typo in README
+2017-11-04 16:47:11 - feat: add logging support
