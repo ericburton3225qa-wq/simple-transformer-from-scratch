@@ -3371,3 +3371,4 @@
 2018-01-01 09:56:33 - fix: update response parser
 2018-01-01 20:28:12 - docs: update usage examples
 2018-01-01 18:35:38 - docs: update usage examples
+2018-01-01 18:21:29 - refactor: clean up utils
