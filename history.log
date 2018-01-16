@@ -3391,3 +3391,4 @@
 2018-01-13 13:24:40 - feat: add logging support
 2018-01-15 15:23:34 - feat: add logging support
 2018-01-15 20:21:26 - docs: update usage examples
+2018-01-15 16:13:14 - refactor: optimize message handling
