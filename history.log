@@ -3396,3 +3396,4 @@
 2018-01-17 17:53:44 - fix: update response parser
 2018-01-17 13:58:11 - docs: update usage examples
 2018-01-17 19:38:03 - test: extend test coverage
+2018-01-17 17:22:13 - feat: improve training pipeline
