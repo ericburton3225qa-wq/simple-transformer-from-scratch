@@ -3400,3 +3400,4 @@
 2018-01-19 15:48:34 - fix: update response parser
 2018-01-19 12:00:05 - refactor: clean up utils
 2018-01-19 14:44:12 - fix: typo in README
+2018-01-19 13:21:21 - test: extend test coverage
