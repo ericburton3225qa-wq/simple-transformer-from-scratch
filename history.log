@@ -3415,3 +3415,4 @@
 2018-01-29 15:07:57 - refactor: optimize message handling
 2018-01-29 11:04:20 - test: add unit tests for nlp module
 2018-01-29 17:20:19 - feat: add logging support
+2018-01-29 10:32:46 - fix: typo in README
