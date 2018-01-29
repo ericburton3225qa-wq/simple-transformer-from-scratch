@@ -3412,3 +3412,4 @@
 2018-01-25 12:27:02 - feat: add initial function
 2018-01-25 15:43:55 - fix: update response parser
 2018-01-27 15:47:25 - fix: typo in README
+2018-01-29 15:07:57 - refactor: optimize message handling
