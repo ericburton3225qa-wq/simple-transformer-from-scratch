@@ -3424,3 +3424,4 @@
 2018-02-02 09:34:26 - docs: update usage examples
 2018-02-02 17:46:09 - feat: support user sessions
 2018-02-02 18:16:10 - test: extend test coverage
+2018-02-04 12:17:06 - refactor: clean up utils
