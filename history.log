@@ -3475,3 +3475,4 @@
 2018-03-12 12:37:57 - chore: update dependencies
 2018-03-12 10:54:14 - feat: improve training pipeline
 2018-03-12 10:53:41 - feat: add initial function
+2018-03-14 18:35:39 - fix: handle empty input gracefully
