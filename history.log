@@ -3479,3 +3479,4 @@
 2018-03-14 15:41:32 - fix: handle empty input gracefully
 2018-03-14 20:48:59 - feat: improve training pipeline
 2018-03-16 15:00:56 - feat: support user sessions
+2018-03-16 18:51:32 - docs: add installation guide
