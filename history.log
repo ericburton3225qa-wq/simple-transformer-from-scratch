@@ -3483,3 +3483,4 @@
 2018-03-16 17:38:07 - chore: update requirements.txt
 2018-03-18 12:03:43 - feat: add initial function
 2018-03-18 09:39:33 - fix: update response parser
+2018-03-20 18:38:09 - test: extend test coverage
