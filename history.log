@@ -3512,3 +3512,4 @@
 2018-04-05 20:22:20 - docs: update usage examples
 2018-04-07 17:49:50 - test: extend test coverage
 2018-04-07 09:13:35 - fix: typo in README
+2018-04-09 18:19:41 - fix: handle empty input gracefully
