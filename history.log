@@ -3524,3 +3524,4 @@
 2018-04-13 13:32:53 - test: add unit tests for nlp module
 2018-04-13 09:35:57 - refactor: clean up utils
 2018-04-13 10:52:58 - chore: update requirements.txt
+2018-04-15 15:47:08 - refactor: optimize message handling
