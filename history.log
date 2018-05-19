@@ -3572,3 +3572,4 @@
 2018-05-17 09:30:01 - test: extend test coverage
 2018-05-17 19:42:46 - feat: add initial function
 2018-05-19 10:20:43 - chore: update dependencies
+2018-05-19 10:52:31 - fix: update response parser
