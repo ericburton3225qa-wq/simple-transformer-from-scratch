@@ -3584,3 +3584,4 @@
 2018-05-25 18:18:01 - feat: support user sessions
 2018-05-25 12:36:22 - fix: typo in README
 2018-05-27 11:17:37 - feat: add initial function
+2018-05-29 17:11:48 - refactor: clean up utils
