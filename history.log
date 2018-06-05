@@ -3592,3 +3592,4 @@
 2018-05-31 10:17:05 - fix: update response parser
 2018-06-02 16:32:25 - fix: handle empty input gracefully
 2018-06-02 10:57:20 - fix: typo in README
+2018-06-04 20:42:52 - test: extend test coverage
