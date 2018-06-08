@@ -3601,3 +3601,4 @@
 2018-06-06 15:30:01 - fix: handle empty input gracefully
 2018-06-08 20:06:41 - fix: update response parser
 2018-06-08 18:00:28 - fix: handle empty input gracefully
+2018-06-08 11:38:48 - feat: add initial function
