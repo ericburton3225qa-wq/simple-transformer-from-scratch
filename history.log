@@ -3599,3 +3599,4 @@
 2018-06-06 11:21:57 - test: extend test coverage
 2018-06-06 09:11:07 - feat: add initial function
 2018-06-06 15:30:01 - fix: handle empty input gracefully
+2018-06-08 20:06:41 - fix: update response parser
