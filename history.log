@@ -3611,3 +3611,4 @@
 2018-06-14 09:12:54 - feat: support user sessions
 2018-06-16 20:18:38 - feat: add initial function
 2018-06-16 20:35:23 - feat: improve training pipeline
+2018-06-18 18:47:56 - refactor: clean up utils
