@@ -3622,3 +3622,4 @@
 2018-06-22 18:02:36 - test: extend test coverage
 2018-06-22 14:45:28 - test: add unit tests for nlp module
 2018-06-22 13:00:10 - feat: add initial function
+2018-06-24 10:24:48 - refactor: clean up utils
