@@ -3647,3 +3647,4 @@
 2018-07-10 12:09:20 - feat: improve training pipeline
 2018-07-10 15:59:06 - docs: add installation guide
 2018-07-10 17:57:19 - refactor: clean up utils
+2018-07-12 14:53:15 - feat: support user sessions
