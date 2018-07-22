@@ -3664,3 +3664,4 @@
 2018-07-20 13:14:33 - test: add unit tests for nlp module
 2018-07-20 12:33:16 - refactor: optimize message handling
 2018-07-22 18:16:13 - docs: add installation guide
+2018-07-22 13:07:24 - fix: handle empty input gracefully
