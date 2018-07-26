@@ -3671,3 +3671,4 @@
 2018-07-24 18:58:24 - fix: update response parser
 2018-07-26 13:06:53 - test: extend test coverage
 2018-07-26 10:33:00 - feat: add initial function
+2018-07-26 14:08:20 - feat: support user sessions
