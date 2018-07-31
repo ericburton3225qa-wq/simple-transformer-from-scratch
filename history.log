@@ -3673,3 +3673,4 @@
 2018-07-26 10:33:00 - feat: add initial function
 2018-07-26 14:08:20 - feat: support user sessions
 2018-07-28 12:45:42 - refactor: clean up utils
+2018-07-30 20:21:39 - test: extend test coverage
