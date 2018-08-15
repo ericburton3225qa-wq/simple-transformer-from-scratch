@@ -3700,3 +3700,4 @@
 2018-08-13 09:26:56 - refactor: clean up utils
 2018-08-15 11:11:46 - docs: add installation guide
 2018-08-15 12:31:05 - chore: update requirements.txt
+2018-08-15 10:23:16 - refactor: optimize message handling
