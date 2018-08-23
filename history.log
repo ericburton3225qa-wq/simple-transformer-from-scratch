@@ -3711,3 +3711,4 @@
 2018-08-21 12:45:41 - test: add unit tests for nlp module
 2018-08-21 13:45:09 - fix: typo in README
 2018-08-23 09:06:18 - chore: update requirements.txt
+2018-08-23 11:07:56 - fix: handle empty input gracefully
