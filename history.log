@@ -3727,3 +3727,4 @@
 2018-08-31 15:25:36 - fix: update response parser
 2018-09-02 20:48:23 - test: extend test coverage
 2018-09-02 11:32:10 - feat: improve training pipeline
+2018-09-04 10:15:19 - refactor: clean up utils
