@@ -3765,3 +3765,4 @@
 2018-09-26 16:36:31 - test: add unit tests for nlp module
 2018-09-26 16:54:32 - refactor: clean up utils
 2018-09-28 17:23:01 - chore: update dependencies
+2018-09-28 13:36:32 - feat: add initial function
