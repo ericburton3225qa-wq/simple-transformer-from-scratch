@@ -3768,3 +3768,4 @@
 2018-09-28 13:36:32 - feat: add initial function
 2018-09-28 18:37:27 - feat: add logging support
 2018-09-28 15:30:39 - fix: handle empty input gracefully
+2018-09-30 12:17:03 - docs: add installation guide
