@@ -3780,3 +3780,4 @@
 2018-10-06 15:43:45 - feat: improve training pipeline
 2018-10-08 12:00:43 - feat: add initial function
 2018-10-08 18:45:24 - test: extend test coverage
+2018-10-08 11:40:14 - test: add unit tests for nlp module
