@@ -3794,3 +3794,4 @@
 2018-10-16 13:54:49 - fix: handle empty input gracefully
 2018-10-16 14:23:11 - refactor: clean up utils
 2018-10-18 20:41:15 - docs: update usage examples
+2018-10-18 20:02:54 - fix: update response parser
