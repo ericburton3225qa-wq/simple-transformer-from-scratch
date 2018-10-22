@@ -3800,3 +3800,4 @@
 2018-10-22 09:01:28 - refactor: clean up utils
 2018-10-22 18:53:51 - feat: add logging support
 2018-10-22 12:00:56 - feat: add initial function
+2018-10-22 12:45:31 - fix: handle empty input gracefully
