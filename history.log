@@ -3806,3 +3806,4 @@
 2018-10-24 15:57:24 - fix: update response parser
 2018-10-24 11:33:47 - refactor: clean up utils
 2018-10-26 15:58:16 - refactor: optimize message handling
+2018-10-26 19:29:24 - docs: add installation guide
