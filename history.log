@@ -3810,3 +3810,4 @@
 2018-10-26 11:59:38 - docs: update usage examples
 2018-10-26 17:57:51 - fix: update response parser
 2018-10-28 20:47:11 - docs: add installation guide
+2018-10-28 13:44:28 - feat: support user sessions
