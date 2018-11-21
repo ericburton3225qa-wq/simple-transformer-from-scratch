@@ -3846,3 +3846,4 @@
 2018-11-19 18:13:12 - docs: add installation guide
 2018-11-21 10:52:26 - chore: update requirements.txt
 2018-11-21 14:35:22 - docs: add installation guide
+2018-11-21 09:00:37 - test: add unit tests for nlp module
