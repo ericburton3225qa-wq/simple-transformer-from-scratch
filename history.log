@@ -3848,3 +3848,4 @@
 2018-11-21 14:35:22 - docs: add installation guide
 2018-11-21 09:00:37 - test: add unit tests for nlp module
 2018-11-23 13:04:11 - feat: add logging support
+2018-11-23 13:53:51 - chore: update dependencies
