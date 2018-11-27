@@ -3854,3 +3854,4 @@
 2018-11-25 20:45:11 - test: add unit tests for nlp module
 2018-11-25 18:52:23 - chore: update dependencies
 2018-11-27 15:37:54 - test: extend test coverage
+2018-11-27 12:44:39 - docs: update usage examples
