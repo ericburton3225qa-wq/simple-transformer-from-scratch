@@ -3862,3 +3862,4 @@
 2018-12-01 10:19:06 - fix: handle empty input gracefully
 2018-12-03 09:54:29 - fix: handle empty input gracefully
 2018-12-03 16:19:24 - fix: typo in README
+2018-12-03 10:58:29 - chore: update dependencies
