@@ -3869,3 +3869,4 @@
 2018-12-07 16:12:32 - fix: update response parser
 2018-12-07 10:32:33 - feat: support user sessions
 2018-12-07 16:41:06 - feat: add logging support
+2018-12-07 11:34:53 - feat: add initial function
