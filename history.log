@@ -3934,3 +3934,4 @@
 2019-01-18 17:10:17 - refactor: clean up utils
 2019-01-18 19:01:59 - feat: improve training pipeline
 2019-01-18 18:29:51 - test: add unit tests for nlp module
+2019-01-18 16:03:24 - feat: add initial function
