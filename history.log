@@ -3933,3 +3933,4 @@
 2019-01-16 14:47:28 - chore: update dependencies
 2019-01-18 17:10:17 - refactor: clean up utils
 2019-01-18 19:01:59 - feat: improve training pipeline
+2019-01-18 18:29:51 - test: add unit tests for nlp module
