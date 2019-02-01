@@ -3954,3 +3954,4 @@
 2019-02-01 10:49:50 - feat: improve training pipeline
 2019-02-01 20:08:10 - chore: update requirements.txt
 2019-02-01 19:50:37 - docs: update usage examples
+2019-02-01 09:24:39 - refactor: clean up utils
