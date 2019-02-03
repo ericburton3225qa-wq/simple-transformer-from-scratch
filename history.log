@@ -3955,3 +3955,4 @@
 2019-02-01 20:08:10 - chore: update requirements.txt
 2019-02-01 19:50:37 - docs: update usage examples
 2019-02-01 09:24:39 - refactor: clean up utils
+2019-02-03 11:35:52 - fix: update response parser
