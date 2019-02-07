@@ -3962,3 +3962,4 @@
 2019-02-05 14:27:39 - fix: update response parser
 2019-02-05 09:46:37 - feat: support user sessions
 2019-02-07 12:44:21 - feat: improve training pipeline
+2019-02-07 13:11:26 - docs: add installation guide
