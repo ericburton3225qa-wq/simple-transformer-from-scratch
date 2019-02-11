@@ -3968,3 +3968,4 @@
 2019-02-11 15:58:22 - feat: improve training pipeline
 2019-02-11 14:00:57 - feat: add logging support
 2019-02-11 16:12:40 - feat: add initial function
+2019-02-11 15:20:32 - fix: update response parser
