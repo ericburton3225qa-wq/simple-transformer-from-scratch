@@ -3980,3 +3980,4 @@
 2019-02-19 10:51:04 - feat: add logging support
 2019-02-19 15:29:39 - test: extend test coverage
 2019-02-19 17:56:28 - feat: improve training pipeline
+2019-02-19 13:05:04 - fix: update response parser
