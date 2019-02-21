@@ -3981,3 +3981,4 @@
 2019-02-19 15:29:39 - test: extend test coverage
 2019-02-19 17:56:28 - feat: improve training pipeline
 2019-02-19 13:05:04 - fix: update response parser
+2019-02-21 12:45:08 - test: add unit tests for nlp module
