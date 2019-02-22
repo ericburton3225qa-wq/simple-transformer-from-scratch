@@ -3983,3 +3983,4 @@
 2019-02-19 13:05:04 - fix: update response parser
 2019-02-21 12:45:08 - test: add unit tests for nlp module
 2019-02-21 09:27:11 - feat: improve training pipeline
+2019-02-21 19:36:58 - feat: add logging support
