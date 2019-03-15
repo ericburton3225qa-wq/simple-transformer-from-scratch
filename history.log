@@ -4014,3 +4014,4 @@
 2019-03-13 18:37:33 - feat: support user sessions
 2019-03-13 16:42:59 - docs: update usage examples
 2019-03-15 20:49:44 - refactor: clean up utils
+2019-03-15 14:13:12 - fix: update response parser
