@@ -4018,3 +4018,4 @@
 2019-03-15 15:58:34 - refactor: clean up utils
 2019-03-15 20:43:08 - fix: handle empty input gracefully
 2019-03-17 17:22:48 - test: add unit tests for nlp module
+2019-03-17 19:00:03 - test: extend test coverage
