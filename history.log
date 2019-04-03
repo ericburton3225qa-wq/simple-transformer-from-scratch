@@ -4044,3 +4044,4 @@
 2019-04-02 16:45:28 - docs: update usage examples
 2019-04-02 10:02:25 - docs: add installation guide
 2019-04-02 18:33:52 - chore: update dependencies
+2019-04-02 18:44:11 - refactor: clean up utils
