@@ -4048,3 +4048,4 @@
 2019-04-04 14:50:58 - chore: update dependencies
 2019-04-04 17:53:38 - chore: update requirements.txt
 2019-04-04 13:43:02 - test: extend test coverage
+2019-04-06 19:47:09 - fix: handle empty input gracefully
