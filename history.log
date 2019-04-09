@@ -4050,3 +4050,4 @@
 2019-04-04 13:43:02 - test: extend test coverage
 2019-04-06 19:47:09 - fix: handle empty input gracefully
 2019-04-08 19:32:47 - fix: typo in README
+2019-04-08 19:24:36 - refactor: clean up utils
