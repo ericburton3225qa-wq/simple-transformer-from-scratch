@@ -4063,3 +4063,4 @@
 2019-04-16 20:26:31 - docs: update usage examples
 2019-04-16 18:07:29 - test: add unit tests for nlp module
 2019-04-16 17:05:52 - feat: add initial function
+2019-04-16 10:20:47 - fix: typo in README
