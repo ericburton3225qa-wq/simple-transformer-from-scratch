@@ -4071,3 +4071,4 @@
 2019-04-22 09:40:48 - chore: update requirements.txt
 2019-04-22 19:30:12 - fix: handle empty input gracefully
 2019-04-22 19:50:15 - feat: add initial function
+2019-04-22 10:49:58 - docs: add installation guide
