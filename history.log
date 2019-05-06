@@ -4090,3 +4090,4 @@
 2019-05-04 10:10:48 - feat: add initial function
 2019-05-06 17:22:51 - test: add unit tests for nlp module
 2019-05-06 18:18:17 - feat: support user sessions
+2019-05-06 11:57:18 - fix: typo in README
