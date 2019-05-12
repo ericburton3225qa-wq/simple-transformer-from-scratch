@@ -4097,3 +4097,4 @@
 2019-05-10 13:28:16 - test: add unit tests for nlp module
 2019-05-10 10:32:20 - test: extend test coverage
 2019-05-10 10:40:44 - fix: update response parser
+2019-05-12 12:17:57 - chore: update requirements.txt
