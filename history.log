@@ -4105,3 +4105,4 @@
 2019-05-14 17:02:22 - refactor: optimize message handling
 2019-05-16 17:40:22 - feat: add initial function
 2019-05-16 20:22:48 - fix: update response parser
+2019-05-16 18:04:37 - fix: handle empty input gracefully
