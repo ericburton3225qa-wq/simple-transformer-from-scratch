@@ -4113,3 +4113,4 @@
 2019-05-20 18:53:42 - test: add unit tests for nlp module
 2019-05-22 17:51:49 - test: add unit tests for nlp module
 2019-05-22 12:44:18 - fix: typo in README
+2019-05-22 15:46:41 - feat: add logging support
