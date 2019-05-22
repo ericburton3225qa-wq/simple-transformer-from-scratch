@@ -4112,3 +4112,4 @@
 2019-05-20 13:35:33 - docs: add installation guide
 2019-05-20 18:53:42 - test: add unit tests for nlp module
 2019-05-22 17:51:49 - test: add unit tests for nlp module
+2019-05-22 12:44:18 - fix: typo in README
