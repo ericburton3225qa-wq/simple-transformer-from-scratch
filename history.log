@@ -4122,3 +4122,4 @@
 2019-05-28 10:54:15 - feat: improve training pipeline
 2019-05-28 16:43:08 - docs: update usage examples
 2019-05-28 16:21:01 - test: add unit tests for nlp module
+2019-05-28 09:06:23 - feat: add logging support
