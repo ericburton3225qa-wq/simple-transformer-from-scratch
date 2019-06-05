@@ -4133,3 +4133,4 @@
 2019-06-03 09:58:42 - fix: update response parser
 2019-06-05 10:25:52 - docs: update usage examples
 2019-06-05 09:14:43 - feat: support user sessions
+2019-06-05 10:38:44 - feat: add logging support
