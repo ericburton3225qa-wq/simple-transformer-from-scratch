@@ -4136,3 +4136,4 @@
 2019-06-05 10:38:44 - feat: add logging support
 2019-06-07 14:54:50 - refactor: optimize message handling
 2019-06-07 14:20:02 - refactor: optimize message handling
+2019-06-07 11:08:17 - fix: update response parser
