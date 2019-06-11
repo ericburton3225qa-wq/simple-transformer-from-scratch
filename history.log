@@ -4139,3 +4139,4 @@
 2019-06-07 11:08:17 - fix: update response parser
 2019-06-09 13:59:22 - feat: add logging support
 2019-06-11 11:33:45 - chore: update dependencies
+2019-06-11 11:50:17 - fix: handle empty input gracefully
