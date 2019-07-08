@@ -4182,3 +4182,4 @@
 2019-07-05 11:16:27 - fix: handle empty input gracefully
 2019-07-05 16:24:36 - fix: handle empty input gracefully
 2019-07-05 12:49:38 - fix: typo in README
+2019-07-07 18:38:12 - docs: update usage examples
