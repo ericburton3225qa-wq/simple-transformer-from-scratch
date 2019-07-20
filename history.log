@@ -4200,3 +4200,4 @@
 2019-07-17 12:58:08 - feat: improve training pipeline
 2019-07-17 12:16:10 - fix: typo in README
 2019-07-17 20:08:04 - refactor: clean up utils
+2019-07-19 18:10:47 - test: extend test coverage
