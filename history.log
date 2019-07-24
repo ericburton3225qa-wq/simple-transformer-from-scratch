@@ -4207,3 +4207,4 @@
 2019-07-21 19:15:16 - test: extend test coverage
 2019-07-23 11:28:06 - fix: update response parser
 2019-07-23 13:50:58 - docs: update usage examples
+2019-07-23 19:36:50 - test: add unit tests for nlp module
