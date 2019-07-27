@@ -4212,3 +4212,4 @@
 2019-07-25 10:53:28 - feat: add initial function
 2019-07-25 09:51:40 - fix: typo in README
 2019-07-25 17:39:59 - fix: handle empty input gracefully
+2019-07-27 12:43:49 - fix: update response parser
