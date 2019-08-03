@@ -4220,3 +4220,4 @@
 2019-07-31 17:32:47 - fix: update response parser
 2019-07-31 12:19:53 - fix: update response parser
 2019-07-31 12:46:28 - chore: update dependencies
+2019-08-02 18:58:55 - feat: add logging support
