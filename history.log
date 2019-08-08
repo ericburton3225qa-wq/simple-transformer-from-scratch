@@ -4231,3 +4231,4 @@
 2019-08-06 09:40:53 - docs: update usage examples
 2019-08-08 12:40:19 - feat: add initial function
 2019-08-08 17:50:03 - test: add unit tests for nlp module
+2019-08-08 11:18:29 - fix: update response parser
