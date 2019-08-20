@@ -4247,3 +4247,4 @@
 2019-08-16 16:05:06 - chore: update requirements.txt
 2019-08-16 10:35:56 - refactor: clean up utils
 2019-08-18 11:53:27 - refactor: clean up utils
+2019-08-20 09:26:43 - feat: add logging support
