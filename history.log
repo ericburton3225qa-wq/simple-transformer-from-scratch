@@ -4250,3 +4250,4 @@
 2019-08-20 09:26:43 - feat: add logging support
 2019-08-20 19:11:37 - test: extend test coverage
 2019-08-20 11:15:40 - test: add unit tests for nlp module
+2019-08-22 18:24:26 - fix: update response parser
