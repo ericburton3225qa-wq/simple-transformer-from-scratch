@@ -4253,3 +4253,4 @@
 2019-08-22 18:24:26 - fix: update response parser
 2019-08-22 13:25:55 - chore: update requirements.txt
 2019-08-22 17:06:47 - fix: handle empty input gracefully
+2019-08-24 20:24:48 - fix: typo in README
