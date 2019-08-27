@@ -4255,3 +4255,4 @@
 2019-08-22 17:06:47 - fix: handle empty input gracefully
 2019-08-24 20:24:48 - fix: typo in README
 2019-08-24 11:33:07 - chore: update dependencies
+2019-08-26 17:02:59 - docs: add installation guide
