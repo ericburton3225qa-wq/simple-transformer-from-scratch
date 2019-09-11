@@ -4278,3 +4278,4 @@
 2019-09-09 11:20:09 - test: extend test coverage
 2019-09-09 12:24:35 - chore: update requirements.txt
 2019-09-11 14:53:48 - feat: add initial function
+2019-09-11 12:14:13 - feat: support user sessions
