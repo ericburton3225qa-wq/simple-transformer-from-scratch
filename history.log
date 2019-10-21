@@ -4335,3 +4335,4 @@
 2019-10-19 11:17:37 - test: extend test coverage
 2019-10-21 20:56:32 - feat: add logging support
 2019-10-21 17:28:24 - test: add unit tests for nlp module
+2019-10-21 16:14:50 - fix: typo in README
