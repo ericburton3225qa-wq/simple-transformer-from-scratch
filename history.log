@@ -4367,3 +4367,4 @@
 2019-11-08 10:25:57 - docs: add installation guide
 2019-11-10 18:05:33 - chore: update requirements.txt
 2019-11-10 19:06:46 - feat: add logging support
+2019-11-12 16:07:38 - test: extend test coverage
