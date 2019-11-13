@@ -4370,3 +4370,4 @@
 2019-11-12 16:07:38 - test: extend test coverage
 2019-11-12 17:43:06 - test: extend test coverage
 2019-11-12 17:35:24 - docs: update usage examples
+2019-11-12 16:53:06 - fix: handle empty input gracefully
