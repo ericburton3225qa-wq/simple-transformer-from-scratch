@@ -4372,3 +4372,4 @@
 2019-11-12 17:35:24 - docs: update usage examples
 2019-11-12 16:53:06 - fix: handle empty input gracefully
 2019-11-14 17:28:57 - feat: add initial function
+2019-11-14 11:21:00 - fix: handle empty input gracefully
