@@ -4387,3 +4387,4 @@
 2019-11-22 10:01:59 - feat: add logging support
 2019-11-22 09:46:39 - fix: typo in README
 2019-11-22 15:12:31 - feat: add initial function
+2019-11-24 16:30:17 - refactor: optimize message handling
