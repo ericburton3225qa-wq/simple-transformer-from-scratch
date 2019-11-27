@@ -4391,3 +4391,4 @@
 2019-11-24 15:09:11 - fix: update response parser
 2019-11-26 13:00:52 - docs: update usage examples
 2019-11-26 12:50:29 - feat: add initial function
+2019-11-26 18:09:14 - refactor: optimize message handling
