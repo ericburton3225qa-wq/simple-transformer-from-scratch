@@ -4436,3 +4436,4 @@
 2019-12-26 19:12:37 - fix: update response parser
 2019-12-26 20:53:01 - test: add unit tests for nlp module
 2019-12-26 12:45:53 - chore: update dependencies
+2019-12-26 19:06:28 - fix: handle empty input gracefully
