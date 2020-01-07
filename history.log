@@ -4448,3 +4448,4 @@
 2020-01-03 20:48:15 - test: add unit tests for nlp module
 2020-01-03 16:33:23 - feat: improve training pipeline
 2020-01-05 09:42:58 - fix: typo in README
+2020-01-07 15:03:07 - feat: improve training pipeline
