@@ -4457,3 +4457,4 @@
 2020-01-11 20:14:44 - refactor: optimize message handling
 2020-01-11 12:46:18 - chore: update dependencies
 2020-01-13 16:44:27 - feat: add logging support
+2020-01-13 10:22:41 - fix: update response parser
