@@ -4483,3 +4483,4 @@
 2020-01-29 18:45:31 - docs: update usage examples
 2020-01-29 16:37:56 - chore: update requirements.txt
 2020-01-31 20:35:42 - feat: add logging support
+2020-01-31 11:20:46 - feat: improve training pipeline
