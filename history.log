@@ -4486,3 +4486,4 @@
 2020-01-31 11:20:46 - feat: improve training pipeline
 2020-01-31 09:17:07 - feat: add logging support
 2020-01-31 13:53:17 - test: extend test coverage
+2020-02-02 17:29:51 - test: add unit tests for nlp module
