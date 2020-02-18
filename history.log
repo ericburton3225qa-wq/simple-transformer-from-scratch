@@ -4512,3 +4512,4 @@
 2020-02-18 14:32:18 - chore: update requirements.txt
 2020-02-18 17:28:04 - refactor: clean up utils
 2020-02-18 09:00:59 - fix: update response parser
+2020-02-18 14:06:42 - docs: add installation guide
