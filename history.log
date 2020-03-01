@@ -4528,3 +4528,4 @@
 2020-02-28 18:44:48 - chore: update dependencies
 2020-02-28 12:35:19 - refactor: optimize message handling
 2020-02-28 11:09:45 - feat: add initial function
+2020-03-01 15:36:21 - test: add unit tests for nlp module
