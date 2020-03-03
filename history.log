@@ -4530,3 +4530,4 @@
 2020-02-28 11:09:45 - feat: add initial function
 2020-03-01 15:36:21 - test: add unit tests for nlp module
 2020-03-03 18:49:28 - test: extend test coverage
+2020-03-03 10:11:40 - refactor: clean up utils
