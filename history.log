@@ -4549,3 +4549,4 @@
 2020-03-13 17:05:53 - feat: support user sessions
 2020-03-13 18:52:51 - docs: update usage examples
 2020-03-15 11:29:10 - feat: add initial function
+2020-03-15 12:51:30 - refactor: clean up utils
