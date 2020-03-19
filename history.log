@@ -4554,3 +4554,4 @@
 2020-03-17 18:34:33 - docs: add installation guide
 2020-03-17 10:21:53 - fix: typo in README
 2020-03-17 15:53:16 - docs: update usage examples
+2020-03-19 14:43:26 - fix: handle empty input gracefully
