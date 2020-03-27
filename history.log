@@ -4566,3 +4566,4 @@
 2020-03-25 20:17:05 - feat: add logging support
 2020-03-25 11:50:09 - fix: handle empty input gracefully
 2020-03-25 20:43:05 - chore: update dependencies
+2020-03-27 15:24:11 - docs: add installation guide
