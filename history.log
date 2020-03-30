@@ -4570,3 +4570,4 @@
 2020-03-27 19:06:17 - refactor: optimize message handling
 2020-03-27 18:58:41 - fix: typo in README
 2020-03-29 12:17:08 - docs: add installation guide
+2020-03-29 18:08:53 - feat: add logging support
