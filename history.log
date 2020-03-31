@@ -4572,3 +4572,4 @@
 2020-03-29 12:17:08 - docs: add installation guide
 2020-03-29 18:08:53 - feat: add logging support
 2020-03-31 15:24:59 - feat: improve training pipeline
+2020-03-31 11:36:20 - test: extend test coverage
