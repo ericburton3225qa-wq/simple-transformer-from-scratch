@@ -4581,3 +4581,4 @@
 2020-04-04 15:46:25 - chore: update dependencies
 2020-04-06 14:51:48 - feat: add logging support
 2020-04-06 12:55:07 - test: add unit tests for nlp module
+2020-04-06 09:15:18 - docs: add installation guide
