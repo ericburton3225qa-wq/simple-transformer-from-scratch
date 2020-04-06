@@ -4580,3 +4580,4 @@
 2020-04-02 15:17:09 - fix: typo in README
 2020-04-04 15:46:25 - chore: update dependencies
 2020-04-06 14:51:48 - feat: add logging support
+2020-04-06 12:55:07 - test: add unit tests for nlp module
