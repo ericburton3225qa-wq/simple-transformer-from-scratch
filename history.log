@@ -4584,3 +4584,4 @@
 2020-04-06 09:15:18 - docs: add installation guide
 2020-04-08 09:01:14 - fix: update response parser
 2020-04-08 16:06:01 - docs: add installation guide
+2020-04-08 19:16:20 - refactor: clean up utils
