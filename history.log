@@ -4612,3 +4612,4 @@
 2020-04-24 16:17:07 - feat: support user sessions
 2020-04-26 12:52:50 - docs: update usage examples
 2020-04-28 13:32:49 - docs: add installation guide
+2020-04-28 15:23:23 - refactor: clean up utils
