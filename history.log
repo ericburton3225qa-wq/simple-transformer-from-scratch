@@ -4617,3 +4617,4 @@
 2020-04-28 11:33:43 - docs: add installation guide
 2020-04-30 13:16:20 - feat: add logging support
 2020-04-30 20:53:30 - chore: update dependencies
+2020-04-30 11:17:26 - test: extend test coverage
