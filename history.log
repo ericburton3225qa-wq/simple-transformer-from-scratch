@@ -4618,3 +4618,4 @@
 2020-04-30 13:16:20 - feat: add logging support
 2020-04-30 20:53:30 - chore: update dependencies
 2020-04-30 11:17:26 - test: extend test coverage
+2020-04-30 16:14:21 - fix: handle empty input gracefully
