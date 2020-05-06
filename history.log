@@ -4626,3 +4626,4 @@
 2020-05-04 20:45:44 - test: add unit tests for nlp module
 2020-05-04 11:24:10 - refactor: clean up utils
 2020-05-06 17:32:53 - docs: update usage examples
+2020-05-06 13:57:21 - fix: update response parser
