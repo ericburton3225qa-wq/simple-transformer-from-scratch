@@ -4640,3 +4640,4 @@
 2020-05-14 19:46:41 - feat: support user sessions
 2020-05-14 14:37:33 - feat: improve training pipeline
 2020-05-14 12:00:29 - fix: update response parser
+2020-05-16 18:40:43 - fix: typo in README
