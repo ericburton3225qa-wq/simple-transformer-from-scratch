@@ -4663,3 +4663,4 @@
 2020-06-01 16:21:06 - docs: add installation guide
 2020-06-01 10:33:21 - refactor: clean up utils
 2020-06-01 13:55:10 - feat: support user sessions
+2020-06-03 09:17:17 - fix: update response parser
