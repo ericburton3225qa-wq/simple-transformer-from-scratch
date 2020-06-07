@@ -4671,3 +4671,4 @@
 2020-06-05 17:49:28 - feat: support user sessions
 2020-06-05 10:11:48 - fix: handle empty input gracefully
 2020-06-05 11:37:52 - chore: update dependencies
+2020-06-07 09:35:26 - feat: add logging support
