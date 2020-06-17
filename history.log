@@ -4684,3 +4684,4 @@
 2020-06-15 20:42:03 - fix: update response parser
 2020-06-15 12:33:31 - docs: add installation guide
 2020-06-15 15:55:49 - fix: update response parser
+2020-06-17 10:52:59 - feat: add logging support
