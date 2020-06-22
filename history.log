@@ -4692,3 +4692,4 @@
 2020-06-19 20:07:28 - fix: update response parser
 2020-06-19 15:21:54 - test: add unit tests for nlp module
 2020-06-21 12:08:38 - docs: add installation guide
+2020-06-21 18:45:14 - feat: add logging support
