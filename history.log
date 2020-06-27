@@ -4700,3 +4700,4 @@
 2020-06-25 10:10:51 - refactor: clean up utils
 2020-06-25 10:53:32 - fix: update response parser
 2020-06-27 16:24:46 - fix: handle empty input gracefully
+2020-06-27 16:25:50 - test: extend test coverage
