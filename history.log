@@ -4699,3 +4699,4 @@
 2020-06-25 14:19:24 - chore: update requirements.txt
 2020-06-25 10:10:51 - refactor: clean up utils
 2020-06-25 10:53:32 - fix: update response parser
+2020-06-27 16:24:46 - fix: handle empty input gracefully
