@@ -4707,3 +4707,4 @@
 2020-06-29 20:45:53 - feat: add logging support
 2020-07-01 09:13:17 - feat: support user sessions
 2020-07-01 18:37:13 - fix: handle empty input gracefully
+2020-07-01 11:28:41 - fix: typo in README
