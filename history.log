@@ -4745,3 +4745,4 @@
 2020-07-23 16:15:49 - test: add unit tests for nlp module
 2020-07-23 09:51:43 - test: extend test coverage
 2020-07-25 17:18:01 - chore: update dependencies
+2020-07-27 15:36:43 - fix: update response parser
