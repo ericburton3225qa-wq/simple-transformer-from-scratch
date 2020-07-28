@@ -4747,3 +4747,4 @@
 2020-07-25 17:18:01 - chore: update dependencies
 2020-07-27 15:36:43 - fix: update response parser
 2020-07-27 09:27:36 - feat: add logging support
+2020-07-27 20:06:59 - feat: support user sessions
