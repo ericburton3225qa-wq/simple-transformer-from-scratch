@@ -4757,3 +4757,4 @@
 2020-07-31 17:55:17 - chore: update requirements.txt
 2020-08-02 16:10:04 - test: extend test coverage
 2020-08-04 20:20:34 - fix: update response parser
+2020-08-04 15:47:26 - test: add unit tests for nlp module
