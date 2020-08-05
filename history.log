@@ -4758,3 +4758,4 @@
 2020-08-02 16:10:04 - test: extend test coverage
 2020-08-04 20:20:34 - fix: update response parser
 2020-08-04 15:47:26 - test: add unit tests for nlp module
+2020-08-04 19:21:59 - fix: typo in README
