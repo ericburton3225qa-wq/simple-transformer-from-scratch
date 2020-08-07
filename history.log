@@ -4763,3 +4763,4 @@
 2020-08-06 13:33:00 - test: add unit tests for nlp module
 2020-08-06 19:14:50 - fix: update response parser
 2020-08-06 14:18:18 - feat: add logging support
+2020-08-06 20:39:32 - feat: add initial function
