@@ -4801,3 +4801,4 @@
 2020-09-01 09:55:39 - chore: update requirements.txt
 2020-09-01 17:22:52 - fix: handle empty input gracefully
 2020-09-01 18:17:35 - test: extend test coverage
+2020-09-03 10:14:36 - fix: update response parser
