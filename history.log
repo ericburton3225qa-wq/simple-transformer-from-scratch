@@ -4807,3 +4807,4 @@
 2020-09-05 17:26:17 - feat: add logging support
 2020-09-07 19:31:19 - fix: update response parser
 2020-09-07 09:05:57 - refactor: optimize message handling
+2020-09-07 11:51:08 - fix: typo in README
