@@ -4819,3 +4819,4 @@
 2020-09-11 12:53:36 - fix: update response parser
 2020-09-13 09:39:35 - chore: update dependencies
 2020-09-13 10:25:08 - test: extend test coverage
+2020-09-15 09:16:41 - fix: handle empty input gracefully
