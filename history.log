@@ -4834,3 +4834,4 @@
 2020-09-23 17:05:04 - docs: update usage examples
 2020-09-23 17:14:05 - docs: update usage examples
 2020-09-23 12:02:38 - chore: update dependencies
+2020-09-25 18:27:33 - test: add unit tests for nlp module
