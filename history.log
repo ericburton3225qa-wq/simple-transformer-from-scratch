@@ -4846,3 +4846,4 @@
 2020-10-01 13:01:07 - docs: add installation guide
 2020-10-01 16:54:10 - test: extend test coverage
 2020-10-01 13:16:54 - feat: support user sessions
+2020-10-03 12:48:30 - refactor: optimize message handling
