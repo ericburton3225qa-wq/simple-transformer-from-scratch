@@ -4854,3 +4854,4 @@
 2020-10-07 11:10:30 - test: add unit tests for nlp module
 2020-10-07 12:46:08 - fix: update response parser
 2020-10-07 13:33:16 - feat: support user sessions
+2020-10-07 12:47:38 - fix: typo in README
