@@ -4857,3 +4857,4 @@
 2020-10-07 12:47:38 - fix: typo in README
 2020-10-09 17:19:25 - fix: update response parser
 2020-10-09 12:41:00 - test: add unit tests for nlp module
+2020-10-09 20:55:46 - feat: add logging support
