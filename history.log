@@ -4863,3 +4863,4 @@
 2020-10-11 18:19:07 - fix: typo in README
 2020-10-13 10:34:20 - feat: support user sessions
 2020-10-13 13:11:46 - chore: update dependencies
+2020-10-13 18:37:54 - feat: add logging support
