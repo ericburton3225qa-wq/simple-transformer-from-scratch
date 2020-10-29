@@ -4884,3 +4884,4 @@
 2020-10-27 15:27:59 - chore: update dependencies
 2020-10-27 11:59:36 - docs: add installation guide
 2020-10-27 17:17:11 - feat: support user sessions
+2020-10-29 13:28:14 - fix: handle empty input gracefully
