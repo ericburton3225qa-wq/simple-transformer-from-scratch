@@ -4923,3 +4923,4 @@
 2020-11-20 16:01:46 - fix: typo in README
 2020-11-22 19:10:49 - chore: update dependencies
 2020-11-22 10:19:54 - docs: add installation guide
+2020-11-24 20:50:19 - test: add unit tests for nlp module
