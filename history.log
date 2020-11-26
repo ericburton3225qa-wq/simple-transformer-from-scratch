@@ -4927,3 +4927,4 @@
 2020-11-24 10:46:26 - feat: add logging support
 2020-11-24 09:36:38 - fix: update response parser
 2020-11-24 12:35:48 - docs: update usage examples
+2020-11-26 13:38:56 - test: extend test coverage
