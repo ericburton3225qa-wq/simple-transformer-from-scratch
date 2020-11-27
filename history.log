@@ -4929,3 +4929,4 @@
 2020-11-24 12:35:48 - docs: update usage examples
 2020-11-26 13:38:56 - test: extend test coverage
 2020-11-26 19:45:23 - fix: update response parser
+2020-11-26 19:42:21 - feat: add initial function
