@@ -4935,3 +4935,4 @@
 2020-11-30 16:28:48 - chore: update dependencies
 2020-11-30 13:40:42 - fix: update response parser
 2020-11-30 10:28:08 - chore: update dependencies
+2020-12-02 20:04:28 - feat: add logging support
