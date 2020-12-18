@@ -4961,3 +4961,4 @@
 2020-12-16 09:01:24 - chore: update requirements.txt
 2020-12-16 09:26:52 - docs: update usage examples
 2020-12-18 18:48:36 - refactor: clean up utils
+2020-12-18 11:58:41 - fix: typo in README
