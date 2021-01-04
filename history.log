@@ -4983,3 +4983,4 @@
 2021-01-01 18:18:59 - chore: update requirements.txt
 2021-01-01 16:57:34 - fix: handle empty input gracefully
 2021-01-01 13:03:23 - refactor: clean up utils
+2021-01-03 20:49:05 - fix: typo in README
