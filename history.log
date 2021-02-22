@@ -5055,3 +5055,4 @@
 2021-02-20 13:17:39 - docs: add installation guide
 2021-02-22 17:30:10 - fix: typo in README
 2021-02-22 19:04:12 - fix: update response parser
+2021-02-22 15:20:29 - fix: handle empty input gracefully
