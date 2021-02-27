@@ -5063,3 +5063,4 @@
 2021-02-24 15:55:15 - feat: support user sessions
 2021-02-26 12:54:33 - test: extend test coverage
 2021-02-26 18:06:28 - docs: add installation guide
+2021-02-26 17:35:00 - feat: add logging support
