@@ -5068,3 +5068,4 @@
 2021-02-28 18:17:49 - fix: typo in README
 2021-03-02 18:13:24 - fix: update response parser
 2021-03-02 20:21:16 - chore: update requirements.txt
+2021-03-02 14:56:43 - test: extend test coverage
