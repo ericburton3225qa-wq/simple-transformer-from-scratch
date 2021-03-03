@@ -5066,3 +5066,4 @@
 2021-02-26 17:35:00 - feat: add logging support
 2021-02-28 16:24:11 - feat: support user sessions
 2021-02-28 18:17:49 - fix: typo in README
+2021-03-02 18:13:24 - fix: update response parser
