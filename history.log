@@ -5069,3 +5069,4 @@
 2021-03-02 18:13:24 - fix: update response parser
 2021-03-02 20:21:16 - chore: update requirements.txt
 2021-03-02 14:56:43 - test: extend test coverage
+2021-03-04 18:40:31 - docs: update usage examples
