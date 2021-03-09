@@ -5074,3 +5074,4 @@
 2021-03-04 16:21:45 - refactor: optimize message handling
 2021-03-06 20:33:23 - refactor: optimize message handling
 2021-03-06 19:39:36 - test: extend test coverage
+2021-03-08 16:12:10 - feat: add logging support
