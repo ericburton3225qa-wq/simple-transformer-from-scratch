@@ -5079,3 +5079,4 @@
 2021-03-08 20:59:50 - docs: add installation guide
 2021-03-10 16:06:15 - feat: add logging support
 2021-03-10 15:39:18 - test: extend test coverage
+2021-03-10 19:42:38 - feat: support user sessions
