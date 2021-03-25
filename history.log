@@ -5100,3 +5100,4 @@
 2021-03-22 14:54:42 - docs: add installation guide
 2021-03-22 12:09:30 - feat: add logging support
 2021-03-24 18:51:00 - test: add unit tests for nlp module
+2021-03-24 20:03:22 - chore: update requirements.txt
