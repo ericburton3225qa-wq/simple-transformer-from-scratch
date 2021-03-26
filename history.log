@@ -5104,3 +5104,4 @@
 2021-03-24 14:09:46 - fix: typo in README
 2021-03-26 14:44:41 - fix: typo in README
 2021-03-26 16:01:11 - chore: update dependencies
+2021-03-26 10:57:03 - fix: handle empty input gracefully
