@@ -5122,3 +5122,4 @@
 2021-04-07 10:49:32 - feat: add initial function
 2021-04-09 12:20:57 - test: add unit tests for nlp module
 2021-04-09 12:42:56 - fix: typo in README
+2021-04-09 10:32:56 - chore: update requirements.txt
