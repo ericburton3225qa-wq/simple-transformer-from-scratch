@@ -5130,3 +5130,4 @@
 2021-04-13 17:52:10 - test: add unit tests for nlp module
 2021-04-15 09:43:18 - test: extend test coverage
 2021-04-15 18:52:00 - test: add unit tests for nlp module
+2021-04-15 12:35:51 - feat: add logging support
