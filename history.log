@@ -5128,3 +5128,4 @@
 2021-04-13 18:31:44 - docs: add installation guide
 2021-04-13 10:21:21 - feat: improve training pipeline
 2021-04-13 17:52:10 - test: add unit tests for nlp module
+2021-04-15 09:43:18 - test: extend test coverage
