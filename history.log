@@ -5153,3 +5153,4 @@
 2021-04-29 18:03:31 - feat: support user sessions
 2021-04-29 18:30:53 - refactor: optimize message handling
 2021-05-01 16:52:37 - docs: add installation guide
+2021-05-03 16:50:17 - fix: typo in README
