@@ -5160,3 +5160,4 @@
 2021-05-05 16:18:01 - fix: update response parser
 2021-05-05 19:11:04 - fix: handle empty input gracefully
 2021-05-07 10:51:36 - fix: handle empty input gracefully
+2021-05-07 20:57:56 - docs: update usage examples
