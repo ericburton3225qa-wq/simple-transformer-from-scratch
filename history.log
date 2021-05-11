@@ -5166,3 +5166,4 @@
 2021-05-11 16:03:53 - fix: handle empty input gracefully
 2021-05-11 10:24:14 - chore: update dependencies
 2021-05-11 10:40:10 - docs: add installation guide
+2021-05-11 09:43:43 - docs: update usage examples
