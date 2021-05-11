@@ -5163,3 +5163,4 @@
 2021-05-07 20:57:56 - docs: update usage examples
 2021-05-07 20:15:56 - docs: add installation guide
 2021-05-09 12:36:17 - refactor: clean up utils
+2021-05-11 16:03:53 - fix: handle empty input gracefully
