@@ -5185,3 +5185,4 @@
 2021-05-23 13:47:41 - fix: update response parser
 2021-05-25 14:08:38 - docs: add installation guide
 2021-05-25 10:18:47 - feat: improve training pipeline
+2021-05-25 09:35:29 - feat: add initial function
