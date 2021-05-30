@@ -5189,3 +5189,4 @@
 2021-05-27 18:44:15 - chore: update requirements.txt
 2021-05-27 17:51:10 - feat: add logging support
 2021-05-27 16:09:48 - fix: update response parser
+2021-05-29 19:33:29 - fix: handle empty input gracefully
