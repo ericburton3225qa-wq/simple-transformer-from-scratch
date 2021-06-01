@@ -5193,3 +5193,4 @@
 2021-05-29 12:50:08 - chore: update requirements.txt
 2021-05-31 15:02:10 - fix: update response parser
 2021-05-31 20:46:25 - feat: improve training pipeline
+2021-05-31 17:57:23 - feat: add logging support
