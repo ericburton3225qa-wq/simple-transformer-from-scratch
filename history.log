@@ -5194,3 +5194,4 @@
 2021-05-31 15:02:10 - fix: update response parser
 2021-05-31 20:46:25 - feat: improve training pipeline
 2021-05-31 17:57:23 - feat: add logging support
+2021-06-02 14:59:36 - fix: typo in README
