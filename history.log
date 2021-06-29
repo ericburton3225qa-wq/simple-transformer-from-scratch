@@ -5231,3 +5231,4 @@
 2021-06-24 19:20:49 - test: add unit tests for nlp module
 2021-06-26 12:09:38 - fix: update response parser
 2021-06-28 19:10:58 - chore: update dependencies
+2021-06-28 19:16:14 - docs: update usage examples
