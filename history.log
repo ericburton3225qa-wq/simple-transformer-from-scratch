@@ -5255,3 +5255,4 @@
 2021-07-12 14:59:08 - feat: add logging support
 2021-07-12 13:23:42 - fix: update response parser
 2021-07-12 15:47:10 - docs: update usage examples
+2021-07-12 18:56:58 - feat: support user sessions
