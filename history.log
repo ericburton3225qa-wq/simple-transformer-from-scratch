@@ -5260,3 +5260,4 @@
 2021-07-14 13:26:51 - test: add unit tests for nlp module
 2021-07-14 10:35:24 - test: extend test coverage
 2021-07-14 20:25:40 - chore: update dependencies
+2021-07-16 09:58:56 - fix: typo in README
