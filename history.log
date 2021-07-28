@@ -5279,3 +5279,4 @@
 2021-07-26 12:42:42 - fix: update response parser
 2021-07-28 18:38:03 - fix: typo in README
 2021-07-28 17:05:52 - docs: update usage examples
+2021-07-28 10:18:43 - refactor: clean up utils
