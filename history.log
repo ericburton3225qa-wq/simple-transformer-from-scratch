@@ -5277,3 +5277,4 @@
 2021-07-26 12:18:27 - chore: update requirements.txt
 2021-07-26 19:02:07 - test: extend test coverage
 2021-07-26 12:42:42 - fix: update response parser
+2021-07-28 18:38:03 - fix: typo in README
