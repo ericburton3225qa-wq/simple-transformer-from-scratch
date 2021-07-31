@@ -5280,3 +5280,4 @@
 2021-07-28 18:38:03 - fix: typo in README
 2021-07-28 17:05:52 - docs: update usage examples
 2021-07-28 10:18:43 - refactor: clean up utils
+2021-07-30 19:31:26 - feat: add logging support
