@@ -5290,3 +5290,4 @@
 2021-08-03 20:47:32 - feat: add initial function
 2021-08-03 16:05:33 - feat: add initial function
 2021-08-05 17:57:27 - test: extend test coverage
+2021-08-05 16:06:08 - test: add unit tests for nlp module
