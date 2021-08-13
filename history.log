@@ -5301,3 +5301,4 @@
 2021-08-11 11:57:03 - refactor: clean up utils
 2021-08-11 10:21:14 - fix: handle empty input gracefully
 2021-08-13 10:44:24 - docs: update usage examples
+2021-08-13 10:06:53 - fix: typo in README
