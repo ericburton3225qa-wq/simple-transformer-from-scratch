@@ -5308,3 +5308,4 @@
 2021-08-17 10:33:00 - docs: add installation guide
 2021-08-17 16:39:54 - fix: update response parser
 2021-08-17 13:36:22 - chore: update dependencies
+2021-08-19 12:48:43 - fix: handle empty input gracefully
