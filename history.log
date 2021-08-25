@@ -5318,3 +5318,4 @@
 2021-08-23 11:54:53 - docs: update usage examples
 2021-08-25 10:37:32 - feat: support user sessions
 2021-08-25 09:05:04 - test: extend test coverage
+2021-08-25 16:49:33 - feat: add logging support
