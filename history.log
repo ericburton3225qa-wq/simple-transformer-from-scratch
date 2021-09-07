@@ -5334,3 +5334,4 @@
 2021-09-02 13:35:18 - chore: update requirements.txt
 2021-09-04 12:15:48 - fix: update response parser
 2021-09-06 16:46:26 - chore: update requirements.txt
+2021-09-06 19:41:48 - test: add unit tests for nlp module
