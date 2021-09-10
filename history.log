@@ -5343,3 +5343,4 @@
 2021-09-08 17:03:02 - fix: update response parser
 2021-09-10 17:18:41 - feat: add logging support
 2021-09-10 09:02:00 - chore: update requirements.txt
+2021-09-10 12:40:25 - docs: update usage examples
