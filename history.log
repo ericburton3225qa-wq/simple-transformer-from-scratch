@@ -5341,3 +5341,4 @@
 2021-09-08 10:25:23 - feat: support user sessions
 2021-09-08 17:12:13 - feat: support user sessions
 2021-09-08 17:03:02 - fix: update response parser
+2021-09-10 17:18:41 - feat: add logging support
