@@ -5372,3 +5372,4 @@
 2021-09-28 19:08:13 - fix: update response parser
 2021-09-30 20:43:38 - fix: typo in README
 2021-09-30 16:39:23 - feat: improve training pipeline
+2021-09-30 18:41:53 - chore: update requirements.txt
