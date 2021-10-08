@@ -5383,3 +5383,4 @@
 2021-10-06 17:37:59 - docs: update usage examples
 2021-10-06 16:14:53 - chore: update dependencies
 2021-10-08 11:55:10 - test: extend test coverage
+2021-10-08 11:13:57 - test: add unit tests for nlp module
