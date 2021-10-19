@@ -5398,3 +5398,4 @@
 2021-10-14 15:12:03 - test: add unit tests for nlp module
 2021-10-16 09:03:10 - feat: improve training pipeline
 2021-10-16 20:55:49 - feat: add initial function
+2021-10-18 17:13:27 - chore: update dependencies
