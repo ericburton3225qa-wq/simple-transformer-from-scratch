@@ -5406,3 +5406,4 @@
 2021-10-20 09:32:09 - feat: add logging support
 2021-10-20 11:12:50 - chore: update requirements.txt
 2021-10-22 19:55:00 - docs: add installation guide
+2021-10-22 16:53:25 - fix: handle empty input gracefully
