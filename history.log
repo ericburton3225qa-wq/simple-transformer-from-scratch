@@ -5409,3 +5409,4 @@
 2021-10-22 16:53:25 - fix: handle empty input gracefully
 2021-10-22 19:24:30 - chore: update dependencies
 2021-10-24 14:46:17 - chore: update dependencies
+2021-10-26 17:38:16 - feat: add logging support
