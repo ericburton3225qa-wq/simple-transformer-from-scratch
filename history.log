@@ -5423,3 +5423,4 @@
 2021-11-01 16:55:34 - docs: update usage examples
 2021-11-03 20:53:27 - fix: typo in README
 2021-11-03 17:04:39 - test: add unit tests for nlp module
+2021-11-03 16:37:42 - fix: update response parser
