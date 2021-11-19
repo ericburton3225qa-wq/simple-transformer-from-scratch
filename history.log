@@ -5445,3 +5445,4 @@
 2021-11-17 09:48:47 - feat: improve training pipeline
 2021-11-17 20:18:13 - test: add unit tests for nlp module
 2021-11-17 12:53:06 - fix: typo in README
+2021-11-19 09:24:21 - docs: add installation guide
