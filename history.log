@@ -5455,3 +5455,4 @@
 2021-11-23 14:51:49 - feat: add logging support
 2021-11-25 19:28:19 - test: add unit tests for nlp module
 2021-11-25 13:49:08 - feat: improve training pipeline
+2021-11-25 16:31:39 - test: extend test coverage
