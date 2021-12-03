@@ -5464,3 +5464,4 @@
 2021-12-01 19:17:07 - refactor: optimize message handling
 2021-12-01 10:12:27 - feat: add logging support
 2021-12-01 20:04:34 - feat: support user sessions
+2021-12-03 09:34:41 - fix: update response parser
