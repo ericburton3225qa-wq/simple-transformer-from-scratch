@@ -5471,3 +5471,4 @@
 2021-12-05 16:28:10 - feat: add logging support
 2021-12-07 17:39:06 - feat: support user sessions
 2021-12-07 11:36:49 - docs: update usage examples
+2021-12-07 17:08:27 - refactor: clean up utils
