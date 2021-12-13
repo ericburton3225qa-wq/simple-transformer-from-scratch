@@ -5478,3 +5478,4 @@
 2021-12-09 16:58:41 - docs: update usage examples
 2021-12-09 20:02:34 - chore: update dependencies
 2021-12-11 11:09:31 - feat: improve training pipeline
+2021-12-13 10:37:10 - fix: handle empty input gracefully
