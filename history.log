@@ -5496,3 +5496,4 @@
 2021-12-21 19:06:39 - test: add unit tests for nlp module
 2021-12-23 13:12:11 - fix: handle empty input gracefully
 2021-12-23 15:04:45 - fix: update response parser
+2021-12-23 18:52:38 - chore: update dependencies
