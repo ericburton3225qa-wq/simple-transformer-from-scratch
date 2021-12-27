@@ -5500,3 +5500,4 @@
 2021-12-23 09:13:16 - fix: update response parser
 2021-12-25 20:38:42 - feat: support user sessions
 2021-12-27 15:03:14 - fix: handle empty input gracefully
+2021-12-27 11:01:47 - fix: typo in README
