@@ -5512,3 +5512,4 @@
 2021-12-31 20:23:29 - test: extend test coverage
 2022-01-02 17:29:14 - fix: update response parser
 2022-01-02 20:43:50 - test: add unit tests for nlp module
+2022-01-04 18:40:49 - feat: add logging support
