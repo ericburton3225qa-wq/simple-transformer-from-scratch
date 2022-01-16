@@ -5531,3 +5531,4 @@
 2022-01-14 09:22:16 - docs: update usage examples
 2022-01-14 11:47:12 - refactor: optimize message handling
 2022-01-14 16:09:48 - fix: handle empty input gracefully
+2022-01-16 10:05:14 - docs: add installation guide
