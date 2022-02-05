@@ -5560,3 +5560,4 @@
 2022-02-03 16:33:33 - chore: update requirements.txt
 2022-02-03 18:31:35 - fix: update response parser
 2022-02-03 14:56:14 - test: add unit tests for nlp module
+2022-02-05 09:10:45 - feat: improve training pipeline
