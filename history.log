@@ -5567,3 +5567,4 @@
 2022-02-07 11:01:22 - fix: update response parser
 2022-02-07 11:13:12 - feat: add initial function
 2022-02-09 13:01:28 - chore: update dependencies
+2022-02-09 20:34:43 - test: add unit tests for nlp module
