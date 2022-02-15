@@ -5576,3 +5576,4 @@
 2022-02-13 14:17:43 - docs: add installation guide
 2022-02-13 20:46:39 - feat: add initial function
 2022-02-15 13:53:01 - test: add unit tests for nlp module
+2022-02-15 15:55:57 - fix: update response parser
