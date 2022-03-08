@@ -5607,3 +5607,4 @@
 2022-03-03 11:33:33 - fix: typo in README
 2022-03-05 20:10:12 - refactor: clean up utils
 2022-03-05 15:29:44 - docs: add installation guide
+2022-03-07 19:10:13 - feat: add logging support
