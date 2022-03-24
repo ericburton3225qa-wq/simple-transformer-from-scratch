@@ -5631,3 +5631,4 @@
 2022-03-21 18:15:42 - docs: add installation guide
 2022-03-21 13:00:57 - docs: update usage examples
 2022-03-21 12:09:43 - fix: typo in README
+2022-03-23 17:59:15 - feat: add logging support
