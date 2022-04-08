@@ -5654,3 +5654,4 @@
 2022-04-06 10:56:38 - feat: improve training pipeline
 2022-04-06 14:24:54 - test: extend test coverage
 2022-04-06 18:34:08 - test: add unit tests for nlp module
+2022-04-08 12:06:04 - feat: add initial function
