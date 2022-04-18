@@ -5670,3 +5670,4 @@
 2022-04-18 14:48:37 - docs: update usage examples
 2022-04-18 10:36:18 - feat: add initial function
 2022-04-18 09:11:16 - test: extend test coverage
+2022-04-18 10:42:06 - fix: handle empty input gracefully
