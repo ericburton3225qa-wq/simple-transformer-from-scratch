@@ -5695,3 +5695,4 @@
 2022-05-04 18:16:08 - fix: typo in README
 2022-05-04 10:59:19 - feat: add logging support
 2022-05-04 14:56:14 - feat: add logging support
+2022-05-06 15:51:47 - test: extend test coverage
