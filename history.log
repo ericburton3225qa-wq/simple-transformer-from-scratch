@@ -2855,3 +2855,4 @@
 2022-05-08 10:33:00 - fix: typo in README
 2022-05-10 14:22:00 - docs: update usage examples
 2022-05-10 11:26:17 - feat: support user sessions
+2022-05-10 20:27:20 - fix: update response parser
