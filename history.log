@@ -5708,3 +5708,4 @@
 2022-05-12 09:29:17 - fix: handle empty input gracefully
 2022-05-12 17:29:39 - feat: add logging support
 2022-05-12 12:43:44 - feat: add logging support
+2022-05-14 16:37:37 - docs: update usage examples
