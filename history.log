@@ -5711,3 +5711,4 @@
 2022-05-14 16:37:37 - docs: update usage examples
 2022-05-16 19:59:09 - refactor: clean up utils
 2022-05-16 12:13:29 - chore: update dependencies
+2022-05-16 15:37:26 - feat: add logging support
