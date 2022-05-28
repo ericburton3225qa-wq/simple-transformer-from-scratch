@@ -5728,3 +5728,4 @@
 2022-05-26 18:56:16 - refactor: clean up utils
 2022-05-26 17:31:55 - test: add unit tests for nlp module
 2022-05-26 10:44:07 - feat: support user sessions
+2022-05-28 10:10:55 - test: extend test coverage
