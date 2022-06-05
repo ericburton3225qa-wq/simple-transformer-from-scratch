@@ -5740,3 +5740,4 @@
 2022-06-03 11:58:33 - feat: support user sessions
 2022-06-03 15:07:38 - test: extend test coverage
 2022-06-05 15:44:44 - docs: update usage examples
+2022-06-05 11:48:33 - refactor: clean up utils
