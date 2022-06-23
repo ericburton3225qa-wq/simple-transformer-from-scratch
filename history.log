@@ -5764,3 +5764,4 @@
 2022-06-21 14:02:11 - feat: support user sessions
 2022-06-21 11:35:19 - fix: update response parser
 2022-06-23 20:58:03 - docs: add installation guide
+2022-06-23 15:30:55 - fix: handle empty input gracefully
