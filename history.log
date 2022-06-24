@@ -5765,3 +5765,4 @@
 2022-06-21 11:35:19 - fix: update response parser
 2022-06-23 20:58:03 - docs: add installation guide
 2022-06-23 15:30:55 - fix: handle empty input gracefully
+2022-06-23 19:58:00 - feat: add logging support
