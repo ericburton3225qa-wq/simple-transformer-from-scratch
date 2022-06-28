@@ -5771,3 +5771,4 @@
 2022-06-27 11:02:00 - feat: add initial function
 2022-06-27 10:01:37 - fix: typo in README
 2022-06-27 17:47:27 - chore: update dependencies
+2022-06-27 18:48:33 - test: add unit tests for nlp module
