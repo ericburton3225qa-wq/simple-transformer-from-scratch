@@ -5780,3 +5780,4 @@
 2022-07-01 12:40:25 - chore: update dependencies
 2022-07-03 14:15:54 - test: add unit tests for nlp module
 2022-07-05 12:20:28 - docs: add installation guide
+2022-07-05 10:01:38 - refactor: clean up utils
