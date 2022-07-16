@@ -5797,3 +5797,4 @@
 2022-07-15 12:50:43 - feat: add logging support
 2022-07-15 15:15:32 - test: add unit tests for nlp module
 2022-07-15 13:31:25 - chore: update requirements.txt
+2022-07-15 18:11:36 - test: extend test coverage
