@@ -5809,3 +5809,4 @@
 2022-07-23 17:34:55 - fix: handle empty input gracefully
 2022-07-25 10:44:14 - docs: update usage examples
 2022-07-25 13:20:32 - feat: add logging support
+2022-07-25 09:16:39 - fix: update response parser
