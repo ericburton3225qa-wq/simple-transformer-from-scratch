@@ -5821,3 +5821,4 @@
 2022-07-31 17:59:11 - test: extend test coverage
 2022-08-02 14:33:41 - feat: support user sessions
 2022-08-02 19:40:37 - fix: handle empty input gracefully
+2022-08-02 11:25:47 - docs: add installation guide
