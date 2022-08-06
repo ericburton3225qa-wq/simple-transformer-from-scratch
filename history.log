@@ -5826,3 +5826,4 @@
 2022-08-04 16:18:24 - feat: add logging support
 2022-08-04 18:48:35 - fix: handle empty input gracefully
 2022-08-04 15:24:34 - docs: update usage examples
+2022-08-06 10:59:01 - fix: update response parser
