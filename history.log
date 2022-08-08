@@ -5830,3 +5830,4 @@
 2022-08-06 14:51:32 - test: add unit tests for nlp module
 2022-08-08 17:15:54 - feat: add initial function
 2022-08-08 17:57:55 - chore: update requirements.txt
+2022-08-08 11:24:49 - fix: update response parser
