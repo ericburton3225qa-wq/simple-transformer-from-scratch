@@ -5828,3 +5828,4 @@
 2022-08-04 15:24:34 - docs: update usage examples
 2022-08-06 10:59:01 - fix: update response parser
 2022-08-06 14:51:32 - test: add unit tests for nlp module
+2022-08-08 17:15:54 - feat: add initial function
