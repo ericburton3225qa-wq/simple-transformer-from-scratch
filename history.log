@@ -5831,3 +5831,4 @@
 2022-08-08 17:15:54 - feat: add initial function
 2022-08-08 17:57:55 - chore: update requirements.txt
 2022-08-08 11:24:49 - fix: update response parser
+2022-08-10 19:23:35 - refactor: clean up utils
