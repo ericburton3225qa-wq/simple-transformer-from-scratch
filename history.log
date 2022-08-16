@@ -5839,3 +5839,4 @@
 2022-08-12 09:03:22 - feat: add logging support
 2022-08-12 11:32:18 - feat: add logging support
 2022-08-14 09:43:20 - refactor: clean up utils
+2022-08-16 11:48:44 - fix: handle empty input gracefully
