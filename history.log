@@ -5845,3 +5845,4 @@
 2022-08-16 14:44:47 - fix: update response parser
 2022-08-18 17:57:01 - feat: add logging support
 2022-08-18 10:36:21 - refactor: optimize message handling
+2022-08-18 18:58:52 - test: add unit tests for nlp module
