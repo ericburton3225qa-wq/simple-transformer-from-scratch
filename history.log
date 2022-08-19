@@ -5843,3 +5843,4 @@
 2022-08-16 15:20:09 - refactor: clean up utils
 2022-08-16 16:07:52 - feat: support user sessions
 2022-08-16 14:44:47 - fix: update response parser
+2022-08-18 17:57:01 - feat: add logging support
