@@ -5854,3 +5854,4 @@
 2022-08-24 15:35:18 - fix: typo in README
 2022-08-24 17:18:32 - feat: improve training pipeline
 2022-08-24 15:19:30 - feat: add logging support
+2022-08-26 11:02:17 - docs: update usage examples
