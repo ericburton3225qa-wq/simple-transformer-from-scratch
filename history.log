@@ -5857,3 +5857,4 @@
 2022-08-26 11:02:17 - docs: update usage examples
 2022-08-26 12:38:57 - fix: typo in README
 2022-08-26 19:35:52 - docs: add installation guide
+2022-08-28 20:46:24 - feat: support user sessions
