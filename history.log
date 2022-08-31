@@ -5862,3 +5862,4 @@
 2022-08-30 12:34:24 - chore: update dependencies
 2022-08-30 15:24:03 - fix: typo in README
 2022-08-30 18:04:20 - docs: add installation guide
+2022-08-30 17:41:56 - fix: handle empty input gracefully
