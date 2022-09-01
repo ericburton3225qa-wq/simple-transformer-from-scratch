@@ -5865,3 +5865,4 @@
 2022-08-30 17:41:56 - fix: handle empty input gracefully
 2022-09-01 12:48:56 - fix: handle empty input gracefully
 2022-09-01 18:10:20 - fix: handle empty input gracefully
+2022-09-01 13:47:27 - feat: add logging support
