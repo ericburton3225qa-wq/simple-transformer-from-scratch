@@ -5883,3 +5883,4 @@
 2022-09-11 15:57:58 - chore: update requirements.txt
 2022-09-11 17:02:04 - docs: update usage examples
 2022-09-13 14:41:53 - test: extend test coverage
+2022-09-13 09:51:02 - fix: handle empty input gracefully
