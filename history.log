@@ -5891,3 +5891,4 @@
 2022-09-17 14:10:43 - chore: update dependencies
 2022-09-19 14:57:10 - fix: typo in README
 2022-09-19 13:27:00 - fix: typo in README
+2022-09-19 13:20:50 - fix: handle empty input gracefully
