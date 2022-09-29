@@ -5905,3 +5905,4 @@
 2022-09-27 15:43:05 - fix: handle empty input gracefully
 2022-09-27 11:26:51 - fix: typo in README
 2022-09-27 13:51:09 - feat: support user sessions
+2022-09-29 16:19:54 - docs: add installation guide
