@@ -5917,3 +5917,4 @@
 2022-10-05 13:34:04 - chore: update requirements.txt
 2022-10-07 18:33:01 - fix: typo in README
 2022-10-07 17:34:17 - refactor: clean up utils
+2022-10-07 17:22:45 - feat: add logging support
