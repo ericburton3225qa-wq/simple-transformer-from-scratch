@@ -5919,3 +5919,4 @@
 2022-10-07 17:34:17 - refactor: clean up utils
 2022-10-07 17:22:45 - feat: add logging support
 2022-10-07 14:11:34 - docs: add installation guide
+2022-10-09 13:04:11 - feat: improve training pipeline
