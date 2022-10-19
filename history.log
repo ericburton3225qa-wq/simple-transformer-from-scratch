@@ -5933,3 +5933,4 @@
 2022-10-17 17:55:36 - fix: update response parser
 2022-10-17 19:51:35 - fix: typo in README
 2022-10-17 10:28:48 - refactor: clean up utils
+2022-10-19 11:16:50 - feat: add logging support
