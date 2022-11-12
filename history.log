@@ -5967,3 +5967,4 @@
 2022-11-10 17:08:44 - feat: add logging support
 2022-11-10 10:07:37 - docs: update usage examples
 2022-11-10 18:40:20 - chore: update requirements.txt
+2022-11-12 11:37:46 - fix: update response parser
