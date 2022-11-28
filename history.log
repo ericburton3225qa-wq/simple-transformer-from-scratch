@@ -5989,3 +5989,4 @@
 2022-11-24 19:50:13 - chore: update requirements.txt
 2022-11-24 13:38:50 - docs: update usage examples
 2022-11-26 12:08:37 - refactor: clean up utils
+2022-11-28 09:19:23 - fix: typo in README
