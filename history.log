@@ -6070,3 +6070,4 @@
 2023-01-19 15:22:28 - chore: update requirements.txt
 2023-01-19 19:26:53 - feat: improve training pipeline
 2023-01-21 09:14:11 - docs: add installation guide
+2023-01-21 12:31:18 - feat: add logging support
