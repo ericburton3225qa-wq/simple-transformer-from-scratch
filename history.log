@@ -6138,3 +6138,4 @@
 2023-03-04 13:52:26 - fix: update response parser
 2023-03-06 09:00:12 - feat: improve training pipeline
 2023-03-06 17:09:49 - chore: update requirements.txt
+2023-03-06 12:51:14 - docs: update usage examples
