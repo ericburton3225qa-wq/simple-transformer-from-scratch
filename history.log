@@ -6170,3 +6170,4 @@
 2023-03-24 20:11:23 - docs: add installation guide
 2023-03-26 14:28:40 - docs: update usage examples
 2023-03-28 09:12:31 - docs: update usage examples
+2023-03-28 09:29:35 - fix: handle empty input gracefully
