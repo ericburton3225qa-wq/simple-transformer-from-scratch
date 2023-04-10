@@ -6190,3 +6190,4 @@
 2023-04-07 19:42:03 - test: extend test coverage
 2023-04-07 12:53:38 - chore: update requirements.txt
 2023-04-09 16:39:40 - test: add unit tests for nlp module
+2023-04-09 19:14:39 - test: add unit tests for nlp module
