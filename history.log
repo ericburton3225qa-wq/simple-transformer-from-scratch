@@ -6202,3 +6202,4 @@
 2023-04-15 11:54:01 - refactor: clean up utils
 2023-04-15 09:05:52 - fix: typo in README
 2023-04-17 17:46:12 - test: add unit tests for nlp module
+2023-04-17 17:32:22 - test: extend test coverage
