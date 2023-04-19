@@ -6205,3 +6205,4 @@
 2023-04-17 17:32:22 - test: extend test coverage
 2023-04-17 16:36:39 - fix: typo in README
 2023-04-19 09:52:16 - fix: update response parser
+2023-04-19 12:04:11 - chore: update requirements.txt
