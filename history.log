@@ -6208,3 +6208,4 @@
 2023-04-19 12:04:11 - chore: update requirements.txt
 2023-04-19 10:12:06 - feat: add initial function
 2023-04-21 17:43:27 - feat: add logging support
+2023-04-21 14:33:30 - fix: typo in README
