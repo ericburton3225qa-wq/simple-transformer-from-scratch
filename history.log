@@ -6221,3 +6221,4 @@
 2023-04-27 15:04:52 - test: add unit tests for nlp module
 2023-04-27 17:44:42 - fix: update response parser
 2023-04-29 09:43:56 - feat: support user sessions
+2023-04-29 20:08:45 - feat: add logging support
