@@ -6273,3 +6273,4 @@
 2023-06-02 18:49:54 - chore: update requirements.txt
 2023-06-02 11:59:00 - fix: update response parser
 2023-06-02 11:28:52 - feat: add logging support
+2023-06-02 20:14:00 - docs: update usage examples
