@@ -6278,3 +6278,4 @@
 2023-06-04 09:37:06 - docs: add installation guide
 2023-06-06 12:57:15 - chore: update dependencies
 2023-06-06 16:47:16 - feat: support user sessions
+2023-06-06 11:42:19 - feat: add logging support
