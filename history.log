@@ -6285,3 +6285,4 @@
 2023-06-10 15:05:44 - docs: update usage examples
 2023-06-12 13:57:14 - test: add unit tests for nlp module
 2023-06-12 20:14:19 - docs: add installation guide
+2023-06-12 20:52:14 - feat: add logging support
