@@ -6296,3 +6296,4 @@
 2023-06-16 18:08:03 - fix: typo in README
 2023-06-18 18:29:48 - fix: update response parser
 2023-06-18 12:01:39 - docs: update usage examples
+2023-06-20 11:39:36 - feat: add initial function
