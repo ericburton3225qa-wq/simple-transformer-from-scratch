@@ -6327,3 +6327,4 @@
 2023-07-06 18:24:54 - test: add unit tests for nlp module
 2023-07-08 11:13:49 - feat: improve training pipeline
 2023-07-10 15:14:20 - test: add unit tests for nlp module
+2023-07-10 17:56:57 - test: extend test coverage
