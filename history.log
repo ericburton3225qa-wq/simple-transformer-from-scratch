@@ -6349,3 +6349,4 @@
 2023-07-22 14:41:21 - fix: typo in README
 2023-07-24 15:42:15 - test: extend test coverage
 2023-07-24 12:00:53 - chore: update requirements.txt
+2023-07-24 10:41:16 - feat: add logging support
