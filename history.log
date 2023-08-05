@@ -6365,3 +6365,4 @@
 2023-08-03 09:40:44 - docs: update usage examples
 2023-08-03 09:16:37 - test: add unit tests for nlp module
 2023-08-03 17:08:46 - fix: typo in README
+2023-08-05 12:21:31 - test: extend test coverage
