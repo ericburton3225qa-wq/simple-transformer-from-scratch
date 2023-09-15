@@ -6421,3 +6421,4 @@
 2023-09-12 16:21:45 - feat: add initial function
 2023-09-12 10:23:20 - feat: improve training pipeline
 2023-09-14 15:31:31 - feat: improve training pipeline
+2023-09-14 17:00:26 - fix: handle empty input gracefully
