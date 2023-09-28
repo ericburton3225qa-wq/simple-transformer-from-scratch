@@ -6441,3 +6441,4 @@
 2023-09-26 20:39:25 - refactor: clean up utils
 2023-09-28 19:41:41 - chore: update requirements.txt
 2023-09-28 15:14:03 - feat: add initial function
+2023-09-28 12:30:21 - fix: handle empty input gracefully
