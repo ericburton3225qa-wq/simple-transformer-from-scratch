@@ -6449,3 +6449,4 @@
 2023-10-02 18:48:18 - refactor: clean up utils
 2023-10-04 19:29:15 - docs: add installation guide
 2023-10-04 13:31:03 - fix: update response parser
+2023-10-04 10:39:43 - test: add unit tests for nlp module
