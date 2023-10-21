@@ -6472,3 +6472,4 @@
 2023-10-18 13:24:44 - refactor: clean up utils
 2023-10-20 19:42:56 - docs: update usage examples
 2023-10-20 09:17:57 - fix: handle empty input gracefully
+2023-10-20 19:39:29 - docs: add installation guide
