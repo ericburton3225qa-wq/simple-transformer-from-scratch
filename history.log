@@ -6502,3 +6502,4 @@
 2023-11-09 09:27:06 - chore: update dependencies
 2023-11-09 20:31:18 - fix: update response parser
 2023-11-11 16:27:45 - chore: update dependencies
+2023-11-13 13:58:56 - feat: support user sessions
