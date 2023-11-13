@@ -6504,3 +6504,4 @@
 2023-11-11 16:27:45 - chore: update dependencies
 2023-11-13 13:58:56 - feat: support user sessions
 2023-11-13 18:44:42 - docs: update usage examples
+2023-11-13 09:07:40 - fix: handle empty input gracefully
