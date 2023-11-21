@@ -6515,3 +6515,4 @@
 2023-11-19 12:49:54 - fix: typo in README
 2023-11-19 13:22:38 - feat: improve training pipeline
 2023-11-21 17:19:31 - fix: update response parser
+2023-11-21 13:29:53 - chore: update requirements.txt
