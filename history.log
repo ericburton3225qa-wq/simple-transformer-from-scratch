@@ -6522,3 +6522,4 @@
 2023-11-23 20:19:30 - test: add unit tests for nlp module
 2023-11-23 16:38:18 - fix: typo in README
 2023-11-23 18:34:31 - fix: typo in README
+2023-11-25 20:55:09 - feat: add logging support
