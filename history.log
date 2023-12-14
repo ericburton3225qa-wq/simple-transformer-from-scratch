@@ -6551,3 +6551,4 @@
 2023-12-13 19:40:15 - fix: update response parser
 2023-12-13 13:30:36 - fix: handle empty input gracefully
 2023-12-13 16:03:48 - feat: add logging support
+2023-12-13 16:21:17 - refactor: optimize message handling
