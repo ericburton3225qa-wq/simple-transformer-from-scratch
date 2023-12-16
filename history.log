@@ -6553,3 +6553,4 @@
 2023-12-13 16:03:48 - feat: add logging support
 2023-12-13 16:21:17 - refactor: optimize message handling
 2023-12-15 20:08:00 - test: add unit tests for nlp module
+2023-12-15 20:49:52 - fix: update response parser
