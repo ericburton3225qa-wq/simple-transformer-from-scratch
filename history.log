@@ -6565,3 +6565,4 @@
 2023-12-21 10:35:28 - refactor: optimize message handling
 2023-12-21 12:26:45 - docs: add installation guide
 2023-12-21 15:40:19 - refactor: clean up utils
+2023-12-21 20:40:37 - feat: add logging support
