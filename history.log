@@ -6568,3 +6568,4 @@
 2023-12-21 20:40:37 - feat: add logging support
 2023-12-23 16:10:36 - fix: typo in README
 2023-12-25 09:29:50 - feat: improve training pipeline
+2023-12-25 09:01:50 - fix: handle empty input gracefully
