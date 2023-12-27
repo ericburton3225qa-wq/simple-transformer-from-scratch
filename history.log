@@ -6572,3 +6572,4 @@
 2023-12-25 13:43:27 - feat: add logging support
 2023-12-27 14:38:33 - test: add unit tests for nlp module
 2023-12-27 16:47:27 - test: extend test coverage
+2023-12-27 12:32:44 - feat: improve training pipeline
