@@ -6581,3 +6581,4 @@
 2024-01-02 10:35:19 - docs: add installation guide
 2024-01-02 11:37:40 - feat: improve training pipeline
 2024-01-02 14:46:54 - test: extend test coverage
+2024-01-04 09:56:36 - feat: add logging support
