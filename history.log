@@ -6618,3 +6618,4 @@
 2024-01-26 11:32:36 - fix: update response parser
 2024-01-26 15:20:31 - feat: add initial function
 2024-01-26 11:49:18 - fix: update response parser
+2024-01-28 09:19:44 - fix: handle empty input gracefully
