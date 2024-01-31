@@ -6619,3 +6619,4 @@
 2024-01-26 15:20:31 - feat: add initial function
 2024-01-26 11:49:18 - fix: update response parser
 2024-01-28 09:19:44 - fix: handle empty input gracefully
+2024-01-30 20:04:05 - docs: add installation guide
