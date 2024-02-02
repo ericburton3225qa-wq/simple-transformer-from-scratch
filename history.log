@@ -6624,3 +6624,4 @@
 2024-01-30 15:43:07 - feat: support user sessions
 2024-01-30 20:16:46 - chore: update requirements.txt
 2024-02-01 10:47:07 - fix: update response parser
+2024-02-01 19:45:47 - docs: update usage examples
