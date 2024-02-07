@@ -6635,3 +6635,4 @@
 2024-02-05 13:06:37 - test: add unit tests for nlp module
 2024-02-07 18:09:51 - docs: add installation guide
 2024-02-07 17:36:53 - refactor: optimize message handling
+2024-02-07 14:10:44 - fix: typo in README
