@@ -6678,3 +6678,4 @@
 2024-03-06 13:50:49 - fix: typo in README
 2024-03-06 17:24:23 - refactor: clean up utils
 2024-03-08 12:04:07 - feat: add initial function
+2024-03-08 19:17:23 - feat: add logging support
