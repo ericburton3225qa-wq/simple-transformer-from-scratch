@@ -6714,3 +6714,4 @@
 2024-04-01 13:57:23 - docs: update usage examples
 2024-04-01 14:11:23 - refactor: optimize message handling
 2024-04-03 15:55:38 - docs: add installation guide
+2024-04-03 12:41:25 - fix: handle empty input gracefully
