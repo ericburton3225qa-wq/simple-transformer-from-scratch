@@ -6754,3 +6754,4 @@
 2024-04-29 17:40:22 - chore: update dependencies
 2024-04-29 15:37:11 - fix: handle empty input gracefully
 2024-05-01 15:56:01 - docs: update usage examples
+2024-05-01 12:36:24 - fix: typo in README
