@@ -6793,3 +6793,4 @@
 2024-05-23 18:49:10 - test: extend test coverage
 2024-05-25 14:43:12 - fix: typo in README
 2024-05-25 19:17:08 - docs: add installation guide
+2024-05-27 13:00:53 - test: add unit tests for nlp module
