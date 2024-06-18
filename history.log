@@ -6828,3 +6828,4 @@
 2024-06-16 19:41:03 - feat: add logging support
 2024-06-18 18:32:18 - chore: update dependencies
 2024-06-18 19:21:23 - feat: add logging support
+2024-06-18 16:45:03 - fix: update response parser
