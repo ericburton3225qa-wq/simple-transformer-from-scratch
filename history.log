@@ -6833,3 +6833,4 @@
 2024-06-20 19:06:09 - fix: typo in README
 2024-06-20 09:02:16 - fix: update response parser
 2024-06-20 09:32:34 - feat: add logging support
+2024-06-22 09:51:48 - refactor: clean up utils
