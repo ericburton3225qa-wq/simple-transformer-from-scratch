@@ -6845,3 +6845,4 @@
 2024-06-28 18:20:50 - feat: improve training pipeline
 2024-06-28 09:02:14 - feat: add logging support
 2024-06-28 13:57:16 - test: add unit tests for nlp module
+2024-06-28 17:02:49 - docs: add installation guide
