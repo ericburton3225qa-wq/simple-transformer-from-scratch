@@ -6842,3 +6842,4 @@
 2024-06-26 16:38:44 - docs: add installation guide
 2024-06-26 11:50:40 - test: add unit tests for nlp module
 2024-06-26 12:27:23 - test: extend test coverage
+2024-06-28 18:20:50 - feat: improve training pipeline
