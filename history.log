@@ -6852,3 +6852,4 @@
 2024-07-02 18:05:51 - fix: update response parser
 2024-07-04 12:02:32 - test: extend test coverage
 2024-07-04 20:21:56 - test: add unit tests for nlp module
+2024-07-04 09:45:27 - docs: update usage examples
