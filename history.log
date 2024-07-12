@@ -6865,3 +6865,4 @@
 2024-07-12 20:48:49 - chore: update requirements.txt
 2024-07-12 14:25:41 - refactor: clean up utils
 2024-07-12 17:43:23 - chore: update requirements.txt
+2024-07-12 13:58:57 - feat: add logging support
