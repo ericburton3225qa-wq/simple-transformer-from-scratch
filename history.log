@@ -6876,3 +6876,4 @@
 2024-07-18 11:37:44 - feat: add logging support
 2024-07-20 12:54:41 - fix: typo in README
 2024-07-20 11:16:13 - feat: support user sessions
+2024-07-22 11:23:48 - fix: handle empty input gracefully
