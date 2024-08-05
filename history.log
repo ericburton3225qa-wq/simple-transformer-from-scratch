@@ -6896,3 +6896,4 @@
 2024-08-01 20:30:30 - fix: typo in README
 2024-08-03 16:29:56 - docs: add installation guide
 2024-08-03 19:23:10 - refactor: clean up utils
+2024-08-05 15:58:20 - feat: support user sessions
