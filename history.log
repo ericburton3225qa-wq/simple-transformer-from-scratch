@@ -6917,3 +6917,4 @@
 2024-08-17 18:12:48 - feat: support user sessions
 2024-08-19 12:37:01 - fix: update response parser
 2024-08-19 12:04:22 - docs: update usage examples
+2024-08-19 17:01:50 - test: extend test coverage
