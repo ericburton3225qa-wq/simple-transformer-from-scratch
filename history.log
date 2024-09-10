@@ -6953,3 +6953,4 @@
 2024-09-10 14:05:21 - chore: update dependencies
 2024-09-10 15:53:55 - fix: typo in README
 2024-09-10 10:17:53 - refactor: clean up utils
+2024-09-10 14:17:30 - feat: add logging support
