@@ -6997,3 +6997,4 @@
 2024-10-08 14:32:27 - fix: typo in README
 2024-10-08 10:11:16 - refactor: clean up utils
 2024-10-10 17:07:48 - test: add unit tests for nlp module
+2024-10-10 09:13:10 - test: extend test coverage
