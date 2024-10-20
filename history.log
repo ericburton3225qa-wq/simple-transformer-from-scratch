@@ -7012,3 +7012,4 @@
 2024-10-18 19:53:14 - docs: add installation guide
 2024-10-18 11:41:42 - refactor: optimize message handling
 2024-10-18 12:34:15 - feat: add initial function
+2024-10-20 16:34:07 - fix: update response parser
