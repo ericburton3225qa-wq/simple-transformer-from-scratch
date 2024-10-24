@@ -7020,3 +7020,4 @@
 2024-10-24 16:14:39 - feat: add logging support
 2024-10-24 19:57:08 - fix: handle empty input gracefully
 2024-10-24 10:31:38 - docs: add installation guide
+2024-10-24 11:40:13 - fix: update response parser
