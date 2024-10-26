@@ -7021,3 +7021,4 @@
 2024-10-24 19:57:08 - fix: handle empty input gracefully
 2024-10-24 10:31:38 - docs: add installation guide
 2024-10-24 11:40:13 - fix: update response parser
+2024-10-26 14:54:45 - test: add unit tests for nlp module
