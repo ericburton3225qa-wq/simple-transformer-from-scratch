@@ -7029,3 +7029,4 @@
 2024-10-28 16:31:37 - fix: update response parser
 2024-10-30 19:05:30 - docs: update usage examples
 2024-10-30 15:56:29 - chore: update requirements.txt
+2024-10-30 18:03:39 - feat: add logging support
