@@ -7045,3 +7045,4 @@
 2024-11-09 16:02:11 - feat: add logging support
 2024-11-11 13:47:15 - refactor: optimize message handling
 2024-11-11 09:35:36 - fix: update response parser
+2024-11-11 20:24:16 - docs: add installation guide
