@@ -7051,3 +7051,4 @@
 2024-11-13 20:22:40 - fix: update response parser
 2024-11-15 09:58:54 - docs: update usage examples
 2024-11-15 19:56:34 - docs: add installation guide
+2024-11-15 18:42:04 - refactor: optimize message handling
