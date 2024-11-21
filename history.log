@@ -7059,3 +7059,4 @@
 2024-11-19 15:03:07 - chore: update dependencies
 2024-11-21 19:12:32 - docs: add installation guide
 2024-11-21 20:34:02 - fix: handle empty input gracefully
+2024-11-21 15:14:34 - refactor: clean up utils
