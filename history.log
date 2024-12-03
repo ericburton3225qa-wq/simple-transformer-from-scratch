@@ -7072,3 +7072,4 @@
 2024-11-29 19:28:38 - feat: add initial function
 2024-11-29 20:20:33 - test: extend test coverage
 2024-12-01 12:46:36 - refactor: clean up utils
+2024-12-03 14:47:41 - fix: handle empty input gracefully
