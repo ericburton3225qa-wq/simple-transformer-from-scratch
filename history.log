@@ -7091,3 +7091,4 @@
 2024-12-13 16:12:57 - chore: update dependencies
 2024-12-13 16:00:01 - feat: improve training pipeline
 2024-12-15 14:43:34 - docs: add installation guide
+2024-12-17 09:04:20 - test: add unit tests for nlp module
