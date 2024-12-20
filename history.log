@@ -7095,3 +7095,4 @@
 2024-12-17 14:11:13 - test: add unit tests for nlp module
 2024-12-17 11:50:32 - test: add unit tests for nlp module
 2024-12-19 11:23:31 - fix: typo in README
+2024-12-19 16:19:32 - chore: update requirements.txt
