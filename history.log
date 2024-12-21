@@ -7098,3 +7098,4 @@
 2024-12-19 16:19:32 - chore: update requirements.txt
 2024-12-19 12:53:07 - chore: update requirements.txt
 2024-12-19 14:41:12 - fix: update response parser
+2024-12-21 11:23:11 - test: add unit tests for nlp module
