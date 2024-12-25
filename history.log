@@ -7104,3 +7104,4 @@
 2024-12-23 10:02:01 - test: add unit tests for nlp module
 2024-12-23 16:43:21 - fix: handle empty input gracefully
 2024-12-23 18:34:06 - feat: improve training pipeline
+2024-12-25 14:16:21 - feat: add logging support
