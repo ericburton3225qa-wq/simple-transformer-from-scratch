@@ -7112,3 +7112,4 @@
 2024-12-27 19:41:31 - refactor: clean up utils
 2024-12-29 18:12:28 - test: extend test coverage
 2024-12-29 13:07:39 - docs: update usage examples
+2024-12-31 16:04:04 - fix: handle empty input gracefully
