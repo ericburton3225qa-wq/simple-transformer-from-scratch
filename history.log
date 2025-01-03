@@ -7118,3 +7118,4 @@
 2024-12-31 20:53:33 - refactor: optimize message handling
 2025-01-02 09:19:38 - docs: update usage examples
 2025-01-02 16:25:40 - fix: update response parser
+2025-01-02 19:11:04 - feat: add logging support
