@@ -7134,3 +7134,4 @@
 2025-01-12 15:43:26 - refactor: clean up utils
 2025-01-14 13:11:20 - docs: add installation guide
 2025-01-14 15:32:32 - refactor: optimize message handling
+2025-01-14 09:51:21 - feat: support user sessions
