@@ -7184,3 +7184,4 @@
 2025-02-15 16:01:07 - docs: update usage examples
 2025-02-15 13:05:15 - chore: update dependencies
 2025-02-17 09:32:09 - fix: update response parser
+2025-02-17 19:34:06 - feat: add logging support
