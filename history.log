@@ -7197,3 +7197,4 @@
 2025-02-23 18:01:25 - refactor: optimize message handling
 2025-02-25 13:45:07 - docs: update usage examples
 2025-02-25 13:55:13 - docs: add installation guide
+2025-02-25 13:26:01 - fix: update response parser
