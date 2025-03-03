@@ -7205,3 +7205,4 @@
 2025-03-01 16:29:36 - feat: support user sessions
 2025-03-03 20:44:49 - chore: update dependencies
 2025-03-03 10:51:33 - test: extend test coverage
+2025-03-03 14:13:29 - test: add unit tests for nlp module
