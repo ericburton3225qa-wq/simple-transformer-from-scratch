@@ -7220,3 +7220,4 @@
 2025-03-11 20:48:01 - refactor: clean up utils
 2025-03-11 18:40:24 - feat: add initial function
 2025-03-11 10:13:04 - chore: update dependencies
+2025-03-13 12:14:22 - fix: handle empty input gracefully
