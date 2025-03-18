@@ -7224,3 +7224,4 @@
 2025-03-13 13:51:39 - fix: handle empty input gracefully
 2025-03-13 10:26:08 - test: extend test coverage
 2025-03-15 18:02:41 - refactor: optimize message handling
+2025-03-17 17:49:48 - docs: add installation guide
