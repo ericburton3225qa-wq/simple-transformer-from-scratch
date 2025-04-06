@@ -7256,3 +7256,4 @@
 2025-04-04 20:20:10 - test: extend test coverage
 2025-04-04 11:50:51 - chore: update dependencies
 2025-04-06 09:13:06 - feat: add logging support
+2025-04-06 13:35:02 - test: add unit tests for nlp module
