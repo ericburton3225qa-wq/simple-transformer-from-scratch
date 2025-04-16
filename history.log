@@ -7268,3 +7268,4 @@
 2025-04-14 19:55:58 - feat: support user sessions
 2025-04-14 12:34:59 - docs: update usage examples
 2025-04-16 11:36:57 - fix: typo in README
+2025-04-16 14:32:20 - fix: handle empty input gracefully
