@@ -7300,3 +7300,4 @@
 2025-05-06 09:02:31 - refactor: clean up utils
 2025-05-06 19:53:08 - fix: update response parser
 2025-05-08 20:53:18 - test: extend test coverage
+2025-05-08 10:30:53 - test: add unit tests for nlp module
