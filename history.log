@@ -7306,3 +7306,4 @@
 2025-05-10 17:01:28 - chore: update requirements.txt
 2025-05-12 14:19:44 - docs: update usage examples
 2025-05-12 17:37:45 - fix: update response parser
+2025-05-12 10:34:34 - fix: handle empty input gracefully
