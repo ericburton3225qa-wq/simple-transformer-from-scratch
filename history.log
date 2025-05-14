@@ -7309,3 +7309,4 @@
 2025-05-12 10:34:34 - fix: handle empty input gracefully
 2025-05-14 09:30:15 - refactor: clean up utils
 2025-05-14 12:13:19 - feat: support user sessions
+2025-05-14 12:23:32 - docs: add installation guide
