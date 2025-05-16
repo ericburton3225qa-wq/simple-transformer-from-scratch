@@ -7312,3 +7312,4 @@
 2025-05-14 12:23:32 - docs: add installation guide
 2025-05-14 17:54:55 - test: add unit tests for nlp module
 2025-05-16 17:51:14 - test: extend test coverage
+2025-05-16 09:00:33 - fix: handle empty input gracefully
