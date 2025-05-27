@@ -7329,3 +7329,4 @@
 2025-05-26 19:35:23 - test: add unit tests for nlp module
 2025-05-26 13:42:15 - refactor: clean up utils
 2025-05-26 11:56:50 - feat: improve training pipeline
+2025-05-26 17:06:07 - feat: add logging support
