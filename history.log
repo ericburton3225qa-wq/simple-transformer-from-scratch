@@ -7333,3 +7333,4 @@
 2025-05-28 09:36:18 - feat: add initial function
 2025-05-28 20:38:50 - refactor: clean up utils
 2025-05-28 17:17:38 - test: add unit tests for nlp module
+2025-05-28 13:34:43 - docs: add installation guide
