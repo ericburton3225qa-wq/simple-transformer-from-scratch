@@ -7335,3 +7335,4 @@
 2025-05-28 17:17:38 - test: add unit tests for nlp module
 2025-05-28 13:34:43 - docs: add installation guide
 2025-05-30 09:17:59 - fix: update response parser
+2025-05-30 10:11:09 - test: extend test coverage
