@@ -7371,3 +7371,4 @@
 2025-06-23 18:05:01 - feat: improve training pipeline
 2025-06-25 12:28:59 - docs: update usage examples
 2025-06-25 19:37:13 - chore: update dependencies
+2025-06-25 20:22:12 - fix: update response parser
