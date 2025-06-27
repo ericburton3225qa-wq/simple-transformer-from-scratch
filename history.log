@@ -7374,3 +7374,4 @@
 2025-06-25 20:22:12 - fix: update response parser
 2025-06-25 11:18:31 - chore: update dependencies
 2025-06-27 14:32:59 - fix: handle empty input gracefully
+2025-06-27 12:43:23 - docs: update usage examples
