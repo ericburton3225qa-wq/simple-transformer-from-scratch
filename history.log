@@ -7387,3 +7387,4 @@
 2025-07-03 12:45:27 - fix: typo in README
 2025-07-03 19:47:55 - fix: update response parser
 2025-07-05 18:37:03 - test: extend test coverage
+2025-07-07 16:26:10 - docs: update usage examples
