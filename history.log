@@ -7398,3 +7398,4 @@
 2025-07-11 15:04:50 - test: extend test coverage
 2025-07-11 14:28:22 - docs: update usage examples
 2025-07-13 17:02:38 - feat: support user sessions
+2025-07-15 12:41:27 - fix: update response parser
