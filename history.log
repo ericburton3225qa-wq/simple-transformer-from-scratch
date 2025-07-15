@@ -7399,3 +7399,4 @@
 2025-07-11 14:28:22 - docs: update usage examples
 2025-07-13 17:02:38 - feat: support user sessions
 2025-07-15 12:41:27 - fix: update response parser
+2025-07-15 15:40:53 - fix: typo in README
