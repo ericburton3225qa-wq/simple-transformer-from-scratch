@@ -7403,3 +7403,4 @@
 2025-07-15 10:03:46 - feat: add initial function
 2025-07-17 09:54:44 - fix: handle empty input gracefully
 2025-07-17 17:50:04 - fix: typo in README
+2025-07-17 16:15:56 - feat: add logging support
