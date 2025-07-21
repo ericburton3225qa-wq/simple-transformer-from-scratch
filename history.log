@@ -7407,3 +7407,4 @@
 2025-07-17 13:56:36 - docs: add installation guide
 2025-07-19 18:02:49 - feat: add initial function
 2025-07-19 16:59:29 - chore: update dependencies
+2025-07-21 11:00:26 - feat: add logging support
