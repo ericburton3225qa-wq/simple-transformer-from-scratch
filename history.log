@@ -7420,3 +7420,4 @@
 2025-07-27 11:47:13 - feat: add initial function
 2025-07-29 10:25:37 - docs: update usage examples
 2025-07-29 16:26:48 - fix: update response parser
+2025-07-29 12:01:10 - feat: add logging support
