@@ -7421,3 +7421,4 @@
 2025-07-29 10:25:37 - docs: update usage examples
 2025-07-29 16:26:48 - fix: update response parser
 2025-07-29 12:01:10 - feat: add logging support
+2025-07-31 09:06:10 - feat: support user sessions
