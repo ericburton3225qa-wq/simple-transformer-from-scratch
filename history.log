@@ -7449,3 +7449,4 @@
 2025-08-16 15:30:30 - feat: add logging support
 2025-08-16 16:40:59 - chore: update requirements.txt
 2025-08-18 15:41:52 - refactor: clean up utils
+2025-08-18 09:21:53 - test: add unit tests for nlp module
