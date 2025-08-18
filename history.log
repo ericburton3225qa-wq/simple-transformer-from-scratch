@@ -7451,3 +7451,4 @@
 2025-08-18 15:41:52 - refactor: clean up utils
 2025-08-18 09:21:53 - test: add unit tests for nlp module
 2025-08-18 09:20:05 - feat: add logging support
+2025-08-18 11:18:47 - docs: update usage examples
