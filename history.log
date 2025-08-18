@@ -7448,3 +7448,4 @@
 2025-08-14 15:53:03 - fix: update response parser
 2025-08-16 15:30:30 - feat: add logging support
 2025-08-16 16:40:59 - chore: update requirements.txt
+2025-08-18 15:41:52 - refactor: clean up utils
