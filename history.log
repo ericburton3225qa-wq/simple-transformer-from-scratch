@@ -7459,3 +7459,4 @@
 2025-08-22 11:14:29 - feat: improve training pipeline
 2025-08-22 19:42:37 - test: extend test coverage
 2025-08-22 10:12:50 - docs: update usage examples
+2025-08-24 09:34:43 - fix: handle empty input gracefully
