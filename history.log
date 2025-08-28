@@ -7467,3 +7467,4 @@
 2025-08-26 15:37:50 - test: extend test coverage
 2025-08-28 14:47:31 - fix: update response parser
 2025-08-28 20:51:39 - feat: add logging support
+2025-08-28 15:07:02 - refactor: optimize message handling
