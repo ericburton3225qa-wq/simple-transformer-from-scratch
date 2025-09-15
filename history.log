@@ -7488,3 +7488,4 @@
 2025-09-11 12:58:19 - refactor: optimize message handling
 2025-09-11 17:19:05 - fix: typo in README
 2025-09-13 13:42:58 - docs: update usage examples
+2025-09-15 15:02:59 - fix: handle empty input gracefully
