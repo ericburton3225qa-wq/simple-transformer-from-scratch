@@ -7510,3 +7510,4 @@
 2025-09-27 09:10:27 - fix: typo in README
 2025-09-29 20:40:12 - test: add unit tests for nlp module
 2025-09-29 13:36:47 - fix: update response parser
+2025-09-29 17:20:43 - feat: add logging support
