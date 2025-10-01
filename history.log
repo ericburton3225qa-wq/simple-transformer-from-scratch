@@ -7512,3 +7512,4 @@
 2025-09-29 13:36:47 - fix: update response parser
 2025-09-29 17:20:43 - feat: add logging support
 2025-10-01 13:42:30 - feat: improve training pipeline
+2025-10-01 09:20:20 - test: add unit tests for nlp module
