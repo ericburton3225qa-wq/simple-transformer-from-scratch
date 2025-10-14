@@ -7530,3 +7530,4 @@
 2025-10-09 15:56:59 - docs: add installation guide
 2025-10-11 14:45:32 - test: extend test coverage
 2025-10-11 14:41:01 - test: add unit tests for nlp module
+2025-10-13 20:56:26 - fix: typo in README
