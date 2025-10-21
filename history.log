@@ -7542,3 +7542,4 @@
 2025-10-17 14:27:34 - fix: typo in README
 2025-10-19 09:33:13 - fix: typo in README
 2025-10-21 18:24:44 - chore: update requirements.txt
+2025-10-21 09:35:00 - feat: add logging support
