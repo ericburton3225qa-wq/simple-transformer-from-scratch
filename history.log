@@ -7557,3 +7557,4 @@
 2025-10-29 11:42:26 - fix: update response parser
 2025-10-29 16:27:21 - test: extend test coverage
 2025-10-31 09:02:36 - test: extend test coverage
+2025-10-31 16:14:38 - fix: handle empty input gracefully
