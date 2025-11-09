@@ -7568,3 +7568,4 @@
 2025-11-06 20:38:41 - refactor: optimize message handling
 2025-11-06 20:20:37 - fix: typo in README
 2025-11-06 20:37:15 - test: add unit tests for nlp module
+2025-11-08 18:21:08 - fix: update response parser
