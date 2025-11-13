@@ -7573,3 +7573,4 @@
 2025-11-10 18:50:51 - chore: update requirements.txt
 2025-11-10 11:31:26 - chore: update requirements.txt
 2025-11-10 12:34:55 - feat: support user sessions
+2025-11-12 20:54:24 - fix: update response parser
