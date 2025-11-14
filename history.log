@@ -7576,3 +7576,4 @@
 2025-11-12 20:54:24 - fix: update response parser
 2025-11-12 18:40:14 - docs: update usage examples
 2025-11-12 18:27:44 - refactor: clean up utils
+2025-11-14 12:44:21 - feat: add logging support
