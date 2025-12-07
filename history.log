@@ -7608,3 +7608,4 @@
 2025-12-04 13:37:13 - fix: typo in README
 2025-12-04 14:28:56 - feat: improve training pipeline
 2025-12-04 09:04:22 - chore: update dependencies
+2025-12-06 20:49:06 - fix: update response parser
