@@ -7614,3 +7614,4 @@
 2025-12-08 15:54:18 - chore: update dependencies
 2025-12-08 17:06:56 - fix: handle empty input gracefully
 2025-12-10 19:01:33 - docs: update usage examples
+2025-12-10 18:31:46 - refactor: clean up utils
